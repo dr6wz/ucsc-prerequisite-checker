@@ -1,0 +1,1 @@
+AM 10	Linear Algebra for Engineers	MATH 19A || MATH 20A
