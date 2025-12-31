@@ -24,6 +24,10 @@ public class AndNode extends LogicalNode {
 
 	// to-do
 	protected void printAdjacencies() {
+		if (!adjacencies.isEmpty()) {
 
+		} else {
+			System.out.println("Empty AND node");
+		}
 	}
 }

@@ -1,5 +1,7 @@
 package graphs;
 import java.util.TreeMap;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.util.Set;
 import java.util.ArrayList;
 
@@ -66,6 +68,18 @@ public class CourseGraph extends Graph {
 				setPrereqs(or, tok[a]);
 			}
 			course.addAdjacency(or);
+			break;
+		case TokenReader.N_OF_STATEMENT:
+			String[] toks = TokenReader.split(prereqs, type);
+			Pattern pattern = Pattern.compile("([\\d]+)\\?\\?");
+			Matcher matcher = pattern.matcher(topLevel);
+			matcher.find();
+			int n = Integer.parseInt(matcher.group(1));
+			NOfNode nOf = new NOfNode(n);
+			for (int a = 0; a < toks.length; a += 1) {
+				setPrereqs(nOf, toks[a]);
+			}
+			course.addAdjacency(nOf);
 			break;
 		}
 	}

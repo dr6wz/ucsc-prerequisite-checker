@@ -30,7 +30,11 @@ public class NOfNode extends LogicalNode {
 	}
 	
 	// to-do
-	protected void printAdjacencies() {
-		
-	}
+		protected void printAdjacencies() {
+			if (!adjacencies.isEmpty()) {
+				
+			} else {
+				System.out.println("Empty N_OF node");
+			}
+		}
 }

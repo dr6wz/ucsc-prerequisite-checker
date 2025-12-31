@@ -14,6 +14,7 @@ public class HelpersTest {
 		testOuterParenthesisIndices();
 		testOuterLevel();
 		testSetPrereq();
+		testSplitNOf();
 	}
 	
 	private static void testSetPrereq() {
@@ -98,5 +99,18 @@ public class HelpersTest {
 		
 		assert am114.prereqsMet();
 		// yes, it works
+	}
+	
+	private static void testSplitNOf() {
+		try {
+			String str = "ART 15 3?? ART 20 3?? ART 30 3?? ART 40 3?? ART 50";
+			int type = TokenReader.deduceType(str);
+			String[] tokens = TokenReader.split(str, type);
+			for (String s: tokens) {
+				System.out.println(s);
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 }

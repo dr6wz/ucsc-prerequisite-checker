@@ -1,10 +1,13 @@
 package graphs;
 import java.util.ArrayList;
+import java.util.regex.Pattern;
+import java.util.regex.Matcher;
 
 public class TokenReader {
 	static final int PLAIN_STATEMENT = 0;
 	static final int OR_STATEMENT = 1;
 	static final int AND_STATEMENT = 2;
+	static final int N_OF_STATEMENT = 3;
 
 	static String trimParentheses(String s) {
 		if (s.length() <= 0) {
@@ -108,23 +111,32 @@ public class TokenReader {
 					+ "of length 2");
 		}
 		String divider;
+		int dividerLength = 0;
 		if (type == AND_STATEMENT) {
 			divider = "&&";
+			dividerLength = 2;
 		} else if (type == OR_STATEMENT) {
 			divider = "||";
+			dividerLength = 2;
+		} else if (type == N_OF_STATEMENT) {
+			Pattern pattern = Pattern.compile("([\\d]+)\\?\\?");
+			Matcher matcher = pattern.matcher(s);
+			matcher.find();
+			divider = matcher.group();
+			dividerLength = divider.length();
 		} else {
 			return null;
 		}
 		ArrayList<Integer> dividerIndices = new ArrayList<Integer>();
 		int i = 0;
-		while (i < s.length() - 1) {
+		while (i < s.length() - (dividerLength - 1)) {
 			char c = s.charAt(i);
-			String sub = s.substring(i, i + 2);
+			String sub = s.substring(i, i + dividerLength);
 			if (c == '(') {
 				i = closingParenthesis(s, i);
 			} else if (sub.equals(divider)) {
 				dividerIndices.add(i);
-				i += 2;
+				i += dividerLength;
 			} else {
 				i += 1;
 			}
@@ -138,12 +150,12 @@ public class TokenReader {
 		while (a < dividerIndices.size() - 1) {
 			int begin = dividerIndices.get(a);
 			int end = dividerIndices.get(a + 1);
-			tok = s.substring(begin + 2, end).trim();
+			tok = s.substring(begin + dividerLength, end).trim();
 			tokens.add(tok);
 			a += 1;
 		}
 		// adds the token just after the last divider index
-		tok = s.substring(dividerIndices.get(dividerIndices.size() - 1) + 2).trim();
+		tok = s.substring(dividerIndices.get(dividerIndices.size() - 1) + dividerLength).trim();
 		tokens.add(tok);
 		String[] tokensArr = new String[tokens.size()];
 		for (a = 0; a < tokensArr.length; a += 1) {
@@ -176,10 +188,14 @@ public class TokenReader {
 	 * @precondition only the outer level of the string is preserved
 	 */
 	static int deduceType(String s) {
+		Pattern pattern = Pattern.compile("([\\d]+)\\?\\?");
+		Matcher matcher = pattern.matcher(s);
 		if (s.indexOf("&&") >= 0) {
 			return AND_STATEMENT;
 		} else if (s.indexOf("||") >= 0) {
 			return OR_STATEMENT;
+		} else if (matcher.find()) {
+			return N_OF_STATEMENT;
 		} else {
 			return PLAIN_STATEMENT;
 		}
