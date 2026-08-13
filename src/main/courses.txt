@@ -1,732 +1,732 @@
-AM 3	Precalculus for the Social Sciences	MATH 2	Y
-AM 6	Precalculus for Statistics	MATH 2	Y
-AM 10	Linear Algebra for Engineers	MATH 3 || AM 11A || MATH 11A || MATH 19A || MATH 20A	Y
-AM 11A	Mathematical Methods for Economists I	AM 3 || AM 6 || MATH 3	Y
-AM 11B	Mathematical Methods for Economists II	AM 11A || ECON 11A || MATH 11A || MATH 19A || MATH 20A	N
-AM 20	Ordinary Differential Equations for Engineers	(MATH 19B || MATH 20B) && (AM 10 || MATH 21)	N
-AM 30	Multivariate Calculus for Engineers	(AM 10 || MATH 21) && (MATH 19B || MATH 20B)	N
-AM 100	Mathematical Methods for Engineers	(AM 20 || MATH 24) && (AM 30 || MATH 23B)	N
-AM 107	Introduction to Fluid Dynamics	AM 112 || MATH 107 || PHYS 116C || EART 111	N
-AM 112	Introduction to Partial Differential Equations	AM 100	N
-AM 114	Introduction to Dynamical Systems	(AM 10 || MATH 21) && (AM 20 || MATH 24) && (AM 30 || MATH 23A || MATH 22) || PHYS 116A	Y
-AM 115	Stochastic Modeling in Biology	STAT 131 && AM 20	Y
-AM 129	Foundations of Scientific Computing for Scientists and Engineers	(AM 10 && MATH 11A) || (AM 10 && MATH 19A) || (AM 10 && MATH 20A) || (MATH 21 && MATH 11A) || (MATH 21 && MATH 19A) || (MATH 21 && MATH 20A)	Y
-AM 147	Computational Methods and Applications	AM 10 || MATH 21	Y
-AM 148	GPU Programming for Scientific Computations	AM 147 || MATH 148 || PHYS 115	Y
-AM 160	Introduction to Scientific Machine Learning	((AM 20 && AM 30) || MATH 24 || PHYS 116A) && (AM 129 || CSE 30)	Y
-AM 170A	Mathematical Modeling 1	AM 30 && AM 114 && (STAT 131 || CSE 107)	Y
-AM 170B	Mathematical Modeling 2	AM 129 && AM 112 && AM 147 && AM 170A	Y
-AM 178A	Learning Assistant Training for AM 10	AM 20 && AM 30	Y
-AM 195	Senior Thesis Research	(AM 129 || AM 209) && AM 112 && AM 147 && AM 170A	Y
-AM 198	Independent Study or Research		Y
-AM 198F	Independent Study or Research		Y
-AM 200	Teaching in Applied Mathematics		N
-AM 211	Foundations of Applied Mathematics		N
-AM 212	Advanced Methods of Applied Mathematics		Y
-AM 212A	Applied Partial Differential Equations		N
-AM 212B	Applied Mathematical Methods II		N
-AM 213A	Numerical Linear Algebra		N
-AM 213B	Numerical Methods for the Solution of Differential Equations		N
-AM 215	Stochastic Modeling in Biology		N
-AM 216	Stochastic Differential Equations		N
-AM 217	Introduction to Fluid Dynamics		N
-AM 224	Applied Dynamical Systems		Y
-AM 227	"Waves, Instabilities, and Turbulence in Fluids"	AM 212A && AM 217	N
-AM 229	Convex Optimization		Y
-AM 230	Numerical Optimization		Y
-AM 231	Nonlinear Control Theory		Y
-AM 232	Applied Optimal Control	AM 114 || AM 214 || ECE 240 || ECE 241 || MATH 145	N
-AM 238	Fundamentals of Uncertainty Quantification in Computational Science and Engineering	STAT 203 && AM 213B	Y
-AM 250	An Introduction to High Performance Computing		N
-AM 260	Computational Fluid Dynamics		Y
-AM 275	Magnetohydrodynamics	AM 107 || AM 217	Y
-AM 280A	Seminar in Mathematical and Computational Biology		N
-AM 280B	Seminar in Applied Mathematical Modeling		N
-AM 280C	Seminar in Geophysical and Astrophysical Fluid Dynamics		N
-AM 296	Masters Project		Y
-AM 297A	Independent Study or Research		Y
-AM 297B	Independent Study or Research		Y
-AM 297C	Independent Study or Research		Y
-AM 297F	Independent Study		Y
-AM 299A	Thesis Research		Y
-AM 299B	Thesis Research		Y
-AM 299C	Thesis Research		Y
-ANCS 99	Tutorial		N
-ANCS 197F	Senior Comprehensive Examination Preparation		N
-ANCS 199	Tutorial		N
-ANCS 199F	Tutorial		N
-ANTH 1	Introduction to Biological Anthropology		N
-ANTH 2	Introduction to Cultural Anthropology		N
-ANTH 3	Introduction to Archaeology		N
-ANTH 93	Field Study		N
-ANTH 97	Laboratory Safety Practicum		N
-ANTH 100	History and Theory of Biological Anthropology	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 109	Stable Isotope Ecology in Anthropology and Beyond	ANTH 1	N
-ANTH 101	Human Evolution	ANTH 1 || BIOE 20C	N
-ANTH 102A	Human Skeletal Biology	ANTH 1	N
-ANTH 103	Forensic Anthropology	ANTH 102A	Y
-ANTH 104	Human Variation and Adaptation		Y
-ANTH 105	Human Paleopathology	ANTH 1	Y
-ANTH 106	Primate Behavior and Ecology	ANTH 1	N
-ANTH 106A	Chimpanzee Behavior and Culture A	ANTH 1	Y
-ANTH 106B	Chimpanzee Behavior and Culture	ANTH 106A	N
-ANTH 106C	Chimpanzee Behavior and Culture	ANTH 106B	N
-ANTH 107A	Methods and Research in Biological Anthropology: Genetics	ANTH 1 && ANTH 104	Y
-ANTH 107B	Methods and Research in Biological Anthropology: Stable Isotopes	ANTH 101 || ANTH 104 || ANTH 106 || ANTH 107 || ANTH 110F	Y
-ANTH 107C	Methods and Research in Biological Anthropology: Chimpanzee Behavior and Culture	ANTH 106	Y
-ANTH 107D	Methods and Research in Biological Anthropology–Computational Population Genetics		Y
-ANTH 107E	Methods And Research In Biological Anthropology: Lithic Technology	ANTH 3	N
-ANTH 108	Neanderthals	ANTH 1	N
-ANTH 110A	Public Life and Contemporary Issues		N
-ANTH 110B	From Indiana Jones to Stonehenge: Archaeology as Popular Culture		N
-ANTH 110C	California Pasts		N
-ANTH 110D	Tourism Imaginaries and Encounters		N
-ANTH 110E	Anthropology of Global Environmental Change		N
-ANTH 110F	Evolution of Human Diet		N
-ANTH 110G	"Westside Stories: Race, Place and the California Imaginary"		N
-ANTH 110H	Brazilian Amazon Cultures and Environments		N
-ANTH 110I	Cultures of Sustainability and Social Justice		N
-ANTH 110IG	Cultures Of Sustainability And Social Justice Abroad		N
-ANTH 110J	Emerging Humanity		N
-ANTH 110K	Culture Through Food		N
-ANTH 110M	Cultures of Mental Health		N
-ANTH 110L	The Human Ocean		N
-ANTH 110N	Anthropology of Food		N
-ANTH 110O	Postcolonial Britain and France		N
-ANTH 110P	India and Indian Diaspora through Film		N
-ANTH 110Q	Queer Sexuality in Black Popular Culture		N
-ANTH 110R	Discourses in American Religions and Their Role in Public Life		N
-ANTH 110S	Evolution of Democracy		N
-ANTH 110T	Motherhood in American Culture		N
-ANTH 110U	Histories and Cultures of Piracy		N
-ANTH 110V	American Capitalism		N
-ANTH 110W	Land and Waterscapes Entropology		N
-ANTH 110Y	Feeding California		N
-ANTH 110Z	Introduction to Disability Studies		N
-ANTH 111	Human Ecology		N
-ANTH 112	Life Cycles	ANTH 1	N
-ANTH 113	Tutoring Writing in Anthropology		Y
-ANTH 119	Indigenous Visual Culture		N
-ANTH 121	Socialism		N
-ANTH 122	Postsocialism		N
-ANTH 123	Psychological Anthropology	ANTH 2	N
-ANTH 124	Anthropology of Religion		N
-ANTH 125	"Magic, Science, and Religion"		N
-ANTH 126	Contraband: Shadow Economies and the Law		N
-ANTH 127	Ethnographies of Capitalism		N
-ANTH 128	Contemporary American Evangelical Cultures		N
-ANTH 129	Beyond Borders: Other Globalizations and Histories of Interconnection		N
-ANTH 130A	Anthropology of Africa.		N
-ANTH 130B	Brazil	ANTH 2	N
-ANTH 130C	Politics and Culture in China		N
-ANTH 130D	The Cultural Aspects of the Israeli-Palestinian Conflict		N
-ANTH 130E	Culture and Politics of Island Southeast Asia	ANTH 2	N
-ANTH 130F	Blackness In Motion: Anthropology of the African Diasporas		N
-ANTH 130G	Asian Americans in Ethnography and Film		N
-ANTH 130H	Ethnography of Russia and Eastern Europe		N
-ANTH 130I	Cultures of India		N
-ANTH 130IG	Cultures of India Abroad		N
-ANTH 130J	Politics and Statemaking in Latin America		N
-ANTH 130K	Food Cultures in South Asia		N
-ANTH 130L	Ethnographies of Latin America	ANTH 2	N
-ANTH 130M	Inside Mexico		N
-ANTH 130N	Native Peoples of North America		N
-ANTH 130O	"Native Feminisms, Gender, and Settler Colonialism"		N
-ANTH 130P	Ethnography of Southern Cone Chile and Argentina		N
-ANTH 130S	"Ethnography of Russia and Eastern Europe, Abroad"		N
-ANTH 130T	Religion and Politics in the Muslim World		N
-ANTH 130U	Central America		N
-ANTH 130V	Ethnography of Russia		N
-ANTH 130W	Ethnography of Eastern Europe		N
-ANTH 130X	Special Topics in Ethnography	ANTH 2	N
-ANTH 130Y	"Health, Illness, & Medicines in Muslim Worlds"	ANTH 2 || GCH 1	Y
-ANTH 131	Gender in Cross-Cultural Context		N
-ANTH 131H	Russian-Language Readings Course: Readings in Anthropology of Russia	ANTH 130H	Y
-ANTH 132	"Food, Culture, and Justice in Israel/Palestine"		N
-ANTH 133	Narratives of the Popular		N
-ANTH 134	Medical Anthropology: An Introduction	ANTH 2	N
-ANTH 135A	Cities		N
-ANTH 136	The Biology of Everyday Life	ANTH 2	N
-ANTH 137	Consuming Culture		N
-ANTH 138	Political Anthropology		N
-ANTH 139	Language and Culture	ANTH 2	N
-ANTH 140	The Body in Rain: Environmental and Medical Intersections		N
-ANTH 142	Anthropology of Law		N
-ANTH 143	Performance and Power	ANTH 2	Y
-ANTH 144	Anthropology of Poverty and Welfare		N
-ANTH 145X	Special Topics in Socio-Cultural Anthropology	ANTH 2	N
-ANTH 146	Anthropology and the Environment	ANTH 2	N
-ANTH 147	Anthropology and the Anthropocene	ANTH 2	N
-ANTH 148	Gender and Global Development		N
-ANTH 149	Anthropology of Activism		N
-ANTH 150	Communicating Anthropology	(ANTH 1 && ANTH 2) || (ANTH 2 && ANTH 3) || (ANTH 1 && ANTH 3)	Y
-ANTH 151	Workshop in Ethnography	ANTH 2	N
-ANTH 151S	Workshop in Ethnography Abroad		Y
-ANTH 152	Survey of Cultural Anthropological Theory	ANTH 2	Y
-ANTH 153	Medicine and Colonialism	ANTH 2 && ANTH 134	N
-ANTH 157	Modernity and Its Others		N
-ANTH 158	Feminist Ethnographies		N
-ANTH 159	Race and Anthropology		N
-ANTH 160	Reproductive and Population Politics		N
-ANTH 161	The Anthropology of Food		N
-ANTH 161S	"Anthropology of Food, Abroad"		Y
-ANTH 162	Anthropology of Displaced Persons		N
-ANTH 163	Kinship		N
-ANTH 164	The Anthropology of Dance	ANTH 2	N
-ANTH 166	"States, Bureaucracies , and Other Cosmological Propositions"		N
-ANTH 170	History of Archaeological Theory	ANTH 3	Y
-ANTH 171	Materials and Methods in Historical Archaeology	ANTH 3	N
-ANTH 172	Archaeological Research Design	ANTH 3	Y
-ANTH 173	Origins of Farming		Y
-ANTH 174	Origins of Complex Societies	ANTH 3	N
-ANTH 175	African Archaeology	ANTH 3	N
-ANTH 176A	North American Archaeology	ANTH 3	N
-ANTH 176B	Meso-American Archaeology	ANTH 3	N
-ANTH 176C	Archaeology of the American Southwest	ANTH 3 && ANTH 176A	N
-ANTH 176D	Colonial Encounters in the Americas	ANTH 2 && ANTH 3	N
-ANTH 176E	Archaeology of the Pacific Northwest	ANTH 3	N
-ANTH 176F	California Archaeology	ANTH 3	N
-ANTH 176G	Andean Archaeology	ANTH 3	N
-ANTH 177	Environmental Archaeology		N
-ANTH 178	Historical Archaeology: A Global Perspective		N
-ANTH 180	Ceramic Analysis in Archaeology	ANTH 3	Y
-ANTH 181X	Special Topics in Archaeology	ANTH 3	N
-ANTH 183	Introduction to Geographic Information Systems for Anthropology		Y
-ANTH 184	Zooarchaeology	ANTH 3	N
-ANTH 185	"Osteology of Mammals, Birds, and Fish"	ANTH 184 || ANTH 102 || (BIOL 138 && BIOL 138L) || EART 100 || (ENVS 105 && ENVS 105L)	Y
-ANTH 187	Cultural Heritage in Colonial Contexts		N
-ANTH 187B	Cultural Resource Management	ANTH 3	N
-ANTH 188A	Practicum in Archaeology A	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 188B	Practicum in Archaeology B	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 188C	Practicum in Archaeology C	ANTH 1 && ANTH 2 && ANTH 3	N
-ANTH 189	Archaeology Field Methods		Y
-ANTH 189A	Archaeological Field Techniques	ANTH 3	Y
-ANTH 190X	Special topics in Biological Anthropology	ANTH 1	N
-ANTH 194A	Anthropology of Dead Persons	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194B	"Chimpanzees: Biology, Behavior, and Evolution"	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194C	Feminist Anthropology	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194D	Tribes/Castes/Women	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194E	Belief	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194F	Memory	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194G	Politics and Secularism	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194H	Paleoanthropology	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194I	Consumption and Consumerism	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194J	Histories of Forests and Other Wild Places		Y
-ANTH 194K	Reading Ethnographies	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194L	Archaeology of the African Diaspora	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194M	Medical Anthropology	ANTH 1 && ANTH 2 && ANTH 3 && ANTH 134	Y
-ANTH 194N	Comparison of Cultures	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194O	Masculinities	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194P	"Space, Place, and Culture"		Y
-ANTH 194Q	"Race, Ethnicity, Nation"	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194R	"Religion, Gender, Sexuality"	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194S	Hearing Culture: The Anthropology of Sound	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194T	Poverty and Inequality	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194U	"Environmental Anthropology: Nature, Culture, Politics"		Y
-ANTH 194V	Who Owns the Past? Ethical and Political Dimensions of Contemporary Archaeology	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194W	The Anthropology of Social Movements	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194X	Women in Politics: A Third World Perspective	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194Y	Archaeologies of Space and Landscape	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 194Z	Emerging Worlds	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 195A	Biological Anthropology Senior Thesis Series: Research Design		Y
-ANTH 195B	Biological Anthropology Senior Thesis Series: Guided Laboratory Research	ANTH 195A	Y
-ANTH 195C	Biological Anthropology Senior Thesis Series: Thesis Writing	ANTH 195B	Y
-ANTH 195S	Senior Thesis		Y
-ANTH 196C	Traveling Cultures	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196D	Food and Medicine	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196E	Pastoralists Past and Present	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196F	"The Anthropology of Things: Gift, Sign, Commodity, Tool"	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196G	"Queer Worlds: Sexuality, Intimacy and Power in Contemporary Ethnography"	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196H	Global History and the Longue Duree	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196I	Hard Problems	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196J	Imagining America	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196K	Settler Colonialism	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196L	Archaeology of the American Southwest	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196M	Modernity and its Others	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196N	"The Body, Narrative, and Creative Practice"	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196O	Gender and Politics	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196P	Disability and Difference	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196Q	Property	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196R	Design Anthropology		Y
-ANTH 196S	Food for Thought	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196T	Archaeology of Technology	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196U	Historical Anthropology	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196V	Radical Craft	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196W	Anthropology of Weather and Exposure	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 196X	Medicines for the Soul	ANTH 1 && ANTH 2 && ANTH 3	Y
-ANTH 197	Laboratory Tutorial		Y
-ANTH 197F	Laboratory Tutorial		Y
-ANTH 198	Independent Field Study		Y
-ANTH 198F	Ind Field Study		Y
-ANTH 198G	Independent Field Study		Y
-ANTH 199	Tutorial		Y
-ANTH 199F	Tutorial		Y
-ANTH 200	Theoretical Foundations of Physical Anthropological Research		N
-ANTH 200A	Cultural Graduate Core Course		Y
-ANTH 200B	Cultural Graduate Core Course		Y
-ANTH 201	Human Evolution		N
-ANTH 202A	Skeletal Biology	ANTH 102A	N
-ANTH 208A	Ethnographic Practice		Y
-ANTH 208C	Design Anthropology		Y
-ANTH 210R	Religion in American Politics and Culture		N
-ANTH 211	Human Ecology		N
-ANTH 212	The Human Life Cycle		N
-ANTH 214	Culture and Power		N
-ANTH 216	Methods in Biological Anthropology		N
-ANTH 219	"Religions, States, Secularities"		N
-ANTH 220	Cartographies of Culture		N
-ANTH 224	Anthropology of Secularism		N
-ANTH 225	"The Anthropology of Things: Sign, Gift, Commodity, Tool"		N
-ANTH 228	Grant Writing		Y
-ANTH 229	Constructing Regions		N
-ANTH 230	"Bodies, Images, Screens"		N
-ANTH 231	Intimacy and Affective Labor		N
-ANTH 232	"Bodies, Knowledge, Practice"		N
-ANTH 233	Politics of Nature		N
-ANTH 234	Feminist Anthropology		N
-ANTH 235	Language and Culture		N
-ANTH 238	Advanced Topics in Cultural Anthropology		N
-ANTH 241	Social Justice		N
-ANTH 243	Cultures of Capitalism		N
-ANTH 246	Advanced Readings in Environmental Anthropology		Y
-ANTH 247	Critical Perspectives on Nutrition		N
-ANTH 248	"Shadowy Dealings: Anthropology of Finance, Money, and Law"		N
-ANTH 249	Ecological Discourses		N
-ANTH 252	Survey of Cultural Anthropological Theory		N
-ANTH 253	Advanced Cultural Theory		N
-ANTH 254	Medicine and Culture		N
-ANTH 255	Regulating Religion/Sex		N
-ANTH 258	Experimental Cultures		N
-ANTH 259	Race in Theory and Ethnography		N
-ANTH 260	Anthropology of Freedom		N
-ANTH 261	"Replication, Mimesis, and Fakery"		N
-ANTH 262	Documenting Cultures		N
-ANTH 263	Kinship		N
-ANTH 269	Global History and the Longue Duree		N
-ANTH 270	History of Archaeology		N
-ANTH 270A	Archaeology Graduate Core Course: History of Archaeological Theory		N
-ANTH 270B	Current Directions in Archaeological Theory	ANTH 270A	N
-ANTH 272	Advanced Archaeological Research		N
-ANTH 273	Origins of Farming		N
-ANTH 274	Origins of Complex Societies		N
-ANTH 275	Tutorial in African Archaeology		N
-ANTH 276A	Advanced Topics in North American Archaeology		N
-ANTH 276B	Mesoamerican Archaeology		N
-ANTH 276G	Archaeology of Colonial Borderlands		N
-ANTH 278	Tutorial on Historical Archaeology		N
-ANTH 279	Feminism and Gender in Archaeology		N
-ANTH 280	Advanced Ceramic Analysis		Y
-ANTH 280L	Advanced Ceramic Analysis Laboratory		Y
-ANTH 281	Landscape Archaeology		N
-ANTH 282	Household Archaeology		N
-ANTH 283	Introduction to Geographic Information Systems for Anthropology		N
-ANTH 284	Tutorial in Zooarchaeology		N
-ANTH 285	"Osteology of Mammals, Birds, and Fish"		N
-ANTH 287	Advanced Topics in Archaeology		N
-ANTH 287A	Advanced Topics: Indigenous Archaeology		N
-ANTH 287B	Advanced Topics: Archaeology in the Age of Big Data		N
-ANTH 290T	Pedagogy of Anthropology		N
-ANTH 292	Graduate Colloquium		N
-ANTH 294N	Comparison of Cultures		N
-ANTH 294R	Advanced Readings in Biological Anthropology		N
-ANTH 295A	Scientific Method: Biological Anthropology		N
-ANTH 296N	"The Body, Narrative, and Creative Practice"		N
-ANTH 297A	Independent Study		Y
-ANTH 297B	Independent Study		Y
-ANTH 297C	Independent Study		Y
-ANTH 297F	Independent Study		Y
-ANTH 298	Advanced Laboratory Apprenticeship		Y
-ANTH 299A	Thesis Research		Y
-ANTH 299B	Thesis Research		Y
-ANTH 299C	Thesis Research		Y
-ANTH 299W	Anthropology Dissertation Workshop		Y
-APLX 55	"Pardon My French: Politeness, Impoliteness, Swearing, Slang, and Humor"		N
-APLX 80	Introduction to Applied Linguistics		N
-APLX 99	Tutorial		Y
-APLX 99F	Tutorial		Y
-APLX 101	Second-Language Acquisition	APLX 80 || LING 50	N
-APLX 102	Bilingualism	APLX 80 || LING 50	N
-APLX 103	Second Language Speech	APLX 80 || LING 50	N
-APLX 105	Language Loss	APLX 80 || LING 50	N
-APLX 112	Language and Gender		N
-APLX 113	Inter-Cultural Communication		Y
-APLX 113I	Intercultural Communication—Global Internship		N
-APLX 115	Language and Power	APLX 80	Y
-APLX 116	Discourse Analysis: Language Use and Context	LING 50	Y
-APLX 122	Linguistic Diversity & Social Justice	APLX 80	Y
-APLX 124	Second Language Variation and Sociolinguistics	APLX 101	N
-APLX 135	Second Language Teaching		Y
-APLX 136	Second Language Assessment		Y
-APLX 138	English Grammar for TESOL		N
-APLX 190	Research Seminar in Applied Linguistics	APLX 80 && APLX 101	Y
-APLX 199	Tutorial		Y
-APLX 199F	Tutorial		Y
-APLX 235	Second Language Teaching		N
-ARBC 1	First-Year Arabic		N
-ARBC 2	First-Year Arabic	ARBC 1	Y
-ARBC 3	First-Year Arabic	ARBC 2	Y
-ARBC 4	Second-Year Arabic	ARBC 3	Y
-ART 10D	2D Foundation		N
-ART 10E	3D Foundation		N
-ART 10F	4D Foundation		N
-ART 15	Introduction to Drawing for the Major		N
-ART 20G	Introduction to Print Media and Drawing	(ART 10D && ART 10E) || (ART 10D && ART 10F) || (ART 10E && ART 10F)	Y
-ART 20H	Introduction to Sculpture and Public Art	(ART 10D && ART 10E) || (ART 10D && ART 10F) || (ART 10E && ART 10F)	Y
-ART 20I	Introduction to Photography	(ART 10D && ART 10E) || (ART 10D && ART 10F) || (ART 10E && ART 10F)	Y
-ART 20J	Introduction to Drawing and Painting	(ART 10D && ART 10E) || (ART 10D && ART 10F) || (ART 10E && ART 10F)	Y
-ART 20K	Introduction to New Media and Digital Artmaking	(ART 10D && ART 10E) || (ART 10D && ART 10F) || (ART 10E && ART 10F)	Y
-ART 20L	Introduction to Drawing		N
-ART 80D	Fundamentals of Photography		N
-ART 80E	Environmental Art in the Expanded Field		N
-ART 80F	Introduction to Issues in Digital Media		N
-ART 80Q	Queer Art		N
-ART 80T	Digital Tools for Contemporary Art Practice		N
-ART 80X	Ars Erotica: Sexual Imagery in Culture and Art		N
-ART 99	Tutorial		Y
-ART 101	Introduction to Computer Programming for the Arts		N
-ART 104	Digital Video	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	Y
-ART 106A	2D Animation	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	Y
-ART 106C	Stop Motion Animation	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	Y
-ART 106E	3D Modeling and Animation	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	Y
-ART 106G	Immersive Nonfiction	ART 80T && (ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26)	Y
-ART 106O	2D Animation		N
-ART 108	"Art, Design, and Social Practice"	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	Y
-ART 109	Special Topics in Media Art	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	Y
-ART 110	Intermediate/Advanced Drawing	(ART 15 || ART 20L || ART 20J) && (ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	Y
-ART 111	Figure Drawing	(ART 15 || ART 20L || ART 20J) && (ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	Y
-ART 112	Mixed Media Works on Paper	(ART 15 || ART 20L || ART 20J) && (ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	Y
-ART 113	Illustrating Stories: Fantasy and Documentary Narratives	(ART 15 || ART 20L || ART 20J) && (ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	Y
-ART 114	Landscape Drawing	(ART 15 || ART 20L || ART 20J) && (ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	Y
-ART 119	Special Topics in Drawing	(ART 15 || ART 20L || ART 20J) && (ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	Y
-ART 125	Environmental Art Studio		Y
-ART 130	Intermediate/Advanced Painting	(ART 20J || ART 133 || ART 137 || ART 138 || ART 139) && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 132	Figure Painting		N
-ART 133	Abstract Painting	(ART 20J || ART 20L || ART 130 || ART 137 || ART 138 || ART 139) && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	Y
-ART 135	Digital Painting		N
-ART 137	Outdoor Painter's Project	(ART 20J || ART 130 || ART 133 || ART 138 || ART 139) && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 138	Facture and Meaning	(ART 20J || ART 130 || ART 133 || ART 137 || ART 139) && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 139	Special Topics in Painting	(ART 20J || ART 130 || ART 133 || ART 137 || ART 138) && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 145	Vector Art and Illustration		N
-ART 150	Darkroom Practices	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 152A	Photographic Book	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 152C	View Camera Photography		N
-ART 153	Still to Moving: Topics in Cinematography for Artists	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 154A	Being Social: Photography and Engagement	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 154B	"Photography, Place, Environment"	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 154C	After Archives: Photographers & Research	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 155	Photo Field Research Quarter (PFRQ): California Road Trip		N
-ART 156	Project Development in Photography	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 157	Immersive Arts Field Research		N
-ART 158	Advanced Photography	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L)	Y
-ART 159	Special Topics in Photography	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 161B	Relief/Mixed Media Printmaking	(ART 20G || ART 26) && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L)	Y
-ART 161C	Tradition and Innovation: Relief Printmaking in Korea	ART 20G	N
-ART 161J	Mokuhanga: UCSC Printmaking in Japan	ART 20G	N
-ART 162A	Intaglio I	(ART 20G || ART 26) && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L)	Y
-ART 163A	Lithography I	(ART 20G || ART 26) && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L)	Y
-ART 163C	Magnified Imagination: A Printmaking Approach	ART 20G && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 164A	Screenprinting	(ART 20G || ART 26) && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L)	Y
-ART 165	Print Media in Visual Communication	ART 20G && (ART 160B || ART 161B || ART 161C || ART 162A || ART 162B || ART 163A || ART 163B || ART 163C || ART 164A || ART 164S || ART 168 || ART 169)	Y
-ART 166	Art of Bookmaking	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L	Y
-ART 168	Photo-Based Printmaking	(ART 20G || ART 26) && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L)	Y
-ART 169	Special Topics in Printmaking	(ART 20G || ART 26) && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L)	Y
-ART 170	Playgrounds: Forms of Gathering and Playing	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L	Y
-ART 172	"Public Art: Memory, Landscape, and Artist as Activist"		Y
-ART 175	Taking Art to the Streets	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	Y
-ART 177	Careers in the Creative Economy		Y
-ART 180B	Intermediate/Advanced Sculpture	(ART 20H || ART 120 || ART 121 || ART 122 || ART 124 || ART 125 || ART 129 || ART 172 || ART 183 || ART 188 || ART 189) && (ART 15 2?? ART 20G 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 181	"Art, Power & Politics"	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	Y
-ART 182	Materiality of Color	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	Y
-ART 183	Metal Fabrication	(ART 20H || ART 120 || ART 121 || ART 122 || ART 124 || ART 125 || ART 129 || ART 172 || ART 180B || ART 188 || ART 189) && (ART 15 2?? ART 20G 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 184	3D Art and Design I	(ART 20H || ART 101 || ART 102 || ART 103 || ART 106E || ART 108 || ART 120 || ART 121 || ART 122 || ART 124 || ART 125 || ART 129 || ART 146T || THEA 106 || ART 172 || ART 180B || ART 183 || ART 188 || ART 189) && (ART 15 2?? ART 20G 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 185	3D Art and Design II	(ART 20H || ART 101 || ART 102 || ART 103 || ART 106E || ART 108 || ART 180B || ART 183 || ART 184 || ART 188)  && (ART 15 2?? ART 20G 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 186	Art and Globalization	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	Y
-ART 188	Bronze Casting: Foundry	(ART 20H || ART 120 || ART 121 || ART 122 || ART 124 || ART 125 || ART 129 || ART 172 || ART 180B || ART 183 || ART 189) && (ART 15 2?? ART 20G 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 189	Special Topics in Sculpture	(ART 20H || ART 120 || ART 121 || ART 122 || ART 124 || ART 125 || ART 129 || ART 172 || ART 175 || ART 180B || ART 183 || ART 188) && (ART 15 2?? ART 20G 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	Y
-ART 190A	Writing for Artists		Y
-ART 190B	Senior Project		Y
-ART 191	Teaching Apprenticeship		Y
-ART 192	Directed Student Teaching		Y
-ART 193	Field Study		Y
-ART 194	Forms and Ideas		Y
-ART 196	Independent Senior Project		Y
-ART 197	Individual Study		Y
-ART 198	Independent Field Study		Y
-ART 199	Tutorial		Y
-ART 199F	Tutorial		N
-ART 210A	Practice-Based Research Group: Sites		N
-ART 210B	Practice-Based Research Group: Systems		N
-ART 210C	Practice-Based Research Group: Contexts		N
-ART 220	Methods and Histories		N
-ART 230	Theory and Practice	ART 220	N
-ART 240	Art Pedagogies		N
-ART 250	Writing Matters		N
-ART 257	Immersive Arts Field Research		Y
-ART 260	Curatorial Collective		N
-ART 270A	Project Development and Critique I	ART 210A && ART 210B && ART 210C && ART 220	N
-ART 270B	Project Development and Critique II	ART 270A	N
-ART 280	MFA Project Production	ART 270A && ART 270B	N
-ART 297	Independent Study		Y
-ART 299F	Thesis Research		Y
-ARTG 10	Aesthetic Designs		N
-ARTG 20	Games as Art		N
-ARTG 25	Games as Art & Activism		N
-ARTG 30	Games as Activism		N
-ARTG 40	Designing Experiences		Y
-ARTG 50	Play as a Radical Endeavor		Y
-ARTG 80G	Visual Communication and Interaction Design		N
-ARTG 80H	Critical History of Digital Games		N
-ARTG 90	Open Source Contributor Studio		Y
-ARTG 91	Introduction to Game Art Production		N
-ARTG 92	Digital Presentation and Portfolio Design Across Disciplines		N
-ARTG 118	Character Creation for Video Games		Y
-ARTG 120	Game Design Experience		Y
-ARTG 129	Special Topics in Game Design		Y
-ARTG 129A	Special Topics in Game Design	ARTG 80G && ARTG 80H && ARTG 80I	Y
-ARTG 131	3D Game Art Production	ARTG 10 && (ARTG 20 || ARTG 25 || ARTG 30)	N
-ARTG 132	3D Character Rigging and Animation for Video Games	ARTG 10 && (ARTG 20 || ARTG 25 || ARTG 30)	N
-ARTG 134	"Spectacular Play: Performance, Ritual, and Making a Scene IRL"		Y
-ARTG 136	Digital Sculpting for Video Games	ARTG 118	Y
-ARTG 137	Experimental Tabletop RPG Design		Y
-ARTG 138	Feminist Games		Y
-ARTG 139	Queer and Trans Art and Games		Y
-ARTG 140	Writing for Interactive Narrative		Y
-ARTG 141	Introduction to Virtual Reality		N
-ARTG 142	Black Aesthetics: Interventions in Digital Media		Y
-ARTG 143	Ecofutures		Y
-ARTG 145	Non-Digital Game Design		N
-ARTG 170A	Game Design Studio I		Y
-ARTG 170B	Design Studio I: Individual Track		Y
-ARTG 171	Game Design Studio II		Y
-ARTG 172	Game Design Studio III	ARTG 171	Y
-ARTG 176	Game Design Collaborative		Y
-ARTG 180	Personal Narrative in Play		Y
-ARTG 181	Portfolio		Y
-ARTG 199	Tutorial		Y
-ARTG 199F	Tutorial		Y
-ASTR 1	Introduction to the Cosmos		N
-ASTR 2	Overview of the Universe		N
-ASTR 3	Introductory Astronomy: Planetary Systems		N
-ASTR 4	Introductory Astronomy: The Stars		N
-ASTR 5	Introductory Astronomy: The Formation and Evolution of the Universe		N
-ASTR 6	The Space-Age Solar System		N
-ASTR 7	Black Holes		N
-ASTR 8	Exploring the Universe with Astronomical Data		N
-ASTR 9A	Introduction to Research in Physics and Astrophysics		Y
-ASTR 9B	Introduction to Research in Physics and Astrophysics		Y
-ASTR 10	From the Big Bang to Planet Earth		N
-ASTR 12	Stars and Stellar Evolution		Y
-ASTR 13	"Galaxies, Cosmology, and High Energy Astrophysics"		Y
-ASTR 15	Dead Stars and Black Holes		Y
-ASTR 16	Astrobiology: Life in the Universe		Y
-ASTR 18	Planets and Planetary Systems		Y
-ASTR 19	Practical Programming for the Sciences		N
-ASTR 21	"The Diverse Universe: Stars, Planets, and Galaxies"	PHYS 5A	Y
-ASTR 111	Order-of-Magnitude Astrophysics	(MATH 22A || MATH 23A) && (PHYS 5B || PHYS 6B)	Y
-ASTR 112	Physics of Stars	(MATH 22A || MATH 23A) && (PHYS 5B || PHYS 6B) && PHYS 102	N
-ASTR 113	Introduction to Cosmology	(MATH 22A || MATH 23A) && (PHYS 5B || PHYS 6B) && PHYS 102	N
-ASTR 117	High Energy Astrophysics	(MATH 22A || MATH 23A) && (PHYS 5B || PHYS 6B) && PHYS 102	N
-ASTR 118	Physics of Planetary Systems	(MATH 22A || MATH 23A) && (PHYS 5B || PHYS 6B)	N
-ASTR 119	Introduction to Scientific Computing	MATH 11A || MATH 19A || MATH 20A || AM 15A	N
-ASTR 136	Advanced Astronomy Laboratory	ASTR 119 && PHYS 133	Y
-ASTR 136A	Advanced Astronomy Lab: Astrometry	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	Y
-ASTR 136B	Advanced Astronomy Lab: Galaxy Rotation Curves and Dark Matter	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	Y
-ASTR 136C	Advanced Astronomy Lab: Stellar Photometry	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	Y
-ASTR 136D	Advanced Astronomy Lab: Wavefront Measurement	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	Y
-ASTR 136E	Advanced Astronomy Lab: Adaptive Optics	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	Y
-ASTR 136G	Advanced Astronomy Lab: Detectors	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	Y
-ASTR 136H	Advanced Astronomy Lab: Fourier Optics	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	Y
-ASTR 192	Dir Stu Teach		N
-ASTR 199	Tutorial		N
-ASTR 202	Astrophysics I		Y
-ASTR 204	Astrophysics II		N
-ASTR 205	Introduction to Astronomical Research and Teaching		N
-ASTR 206	Introduction to Research Mentoring		Y
-ASTR 214	Special Topics in Galactic and Extragalactic Astronomy		N
-ASTR 215	Research Practicum for Astrophysics	ASTR 202 && ASTR 204 && ASTR 205 && ASTR 257	Y
-ASTR 220A	Stars and Planets I		N
-ASTR 222	Stars and Planets II		N
-ASTR 225	High-Energy Astrophysics		N
-ASTR 230	Diffuse Matter in Space		N
-ASTR 233	Galaxies and Cosmology I		Y
-ASTR 234	Statistical Techniques in Astronomy		N
-ASTR 240A	Galaxies and Cosmology II		N
-ASTR 257	Observational Astronomy		Y
-ASTR 260	Instrumentation for Astronomy		N
-ASTR 289	Adaptive Optics and Its Application		N
-ASTR 292	Seminar		N
-ASTR 293	Current Literature in Astrophysics		N
-ASTR 294	Pedagogy of Astrophysical Research		N
-ASTR 297A	Independent Study		Y
-ASTR 297B	Independent Study		Y
-ASTR 297C	Independent Study		Y
-ASTR 297D	Independent Study		Y
-ASTR 299A	Thesis Research		N
-ASTR 299B	Thesis Research		N
-ASTR 299C	Thesis Research		N
-BIOC 100A	Biochemistry and Molecular Biology	CHEM 8B && BIOL 20A	Y
-BIOC 100B	Biochemistry and Molecular Biology	BIOC 100A	N
-BIOC 100C	Biochemistry and Molecular Biology	BIOC 100B	N
-BIOC 110L	Advanced Biochemistry Laboratory	BIOC 100B	Y
-BIOC 163A	"Quantum Mechanics, Spectroscopy and Molecular Structure for Biochemistry and Molecular Biology"	CHEM 1B && (CHEM 1C || CHEM 3C || CHEM 4B) && ((PHYS 5A && PHYS 5C) || (PHYS 6A && PHYS 6C))	Y
-BIOC 163B	Biochemical Thermodynamics and Statistical Mechanics for Biochemistry and Molecular Biology	CHEM 1B && (CHEM 1C || CHEM 3C || CHEM 4B) && (PHYS 5A || PHYS 6A)	Y
-BIOE 16	Introduction to Horticulture		N
-BIOE 19	Biodiversity in the Age of Humans		Y
-BIOE 20B	Development and Physiology	BIOL 20A	N
-BIOE 20C	Ecology and Evolution		N
-BIOE 20F	Field Biology in Practice		Y
-BIOE 75	Scientific Diving Methods		Y
-BIOE 80S	"Lies, Damn Lies, and Statistics"		N
-BIOE 82	Introduction to Field Research and Conservation		Y
-BIOE 85	Natural History of the UCSC Natural Reserves		N
-BIOE 95	Seymour Center Docent Training		N
-BIOE 99	Tutorial		Y
-BIOE 106	Principles of Genetics for EEB	BIOL 20A && BIOE 20B && BIOE 20C	N
-BIOE 107	Ecology	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 108	Marine Ecology	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 109	Evolution	(BIOL 20A && BIOE 20B && BIOE 20C) && (BIOE 106 || BIOL 105)	N
-BIOE 112	Ornithology	BIOE 107 || BIOE 109 || BIOE 140	Y
-BIOE 112L	Ornithology Field Studies	BIOE 107 || BIOE 109 || BIOE 140	Y
-BIOE 114	Herpetology	BIOE 107 || BIOE 109 || BIOE 140	Y
-BIOE 114L	Field Methods in Herpetological Research	BIOE 107 || BIOE 109 || BIOE 140	Y
-BIOE 117	Systematic Botany of Flowering Plants	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 117L	Systematic Botany of Flowering Plants Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 118	"Plants and Society: the Biology of Food, Shelter, and Medicine"	(BIOL 20A && BIOE 20B && BIOE 20C) || (ENVS 23 && ENVS 24)	N
-BIOE 120	Marine Botany	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 120L	Marine Botany Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 121	"Plants, Earth, Climate"	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 122	Invertebrate Zoology	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 122L	Invertebrate Zoology Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 124	Mammalogy	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 124L	Mammalogy Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 125	Ecosystems of California	BIOE 20C	Y
-BIOE 126	Biology of Large Marine Vertebrates	BIOE 20B && BIOE 20C	Y
-BIOE 127	Ichthyology	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 127L	Ichthyology Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 128L	Large Marine Vertebrates Field Course	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 129	Biology of Marine Mammals	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 129L	Biology of Marine Mammals Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 131	Animal Physiology	BIOL 20A && BIOE 20B && BIOE 20C	N
-BIOE 131L	Animal Physiology Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 133	Exercise Physiology	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 133L	Exercise Physiology Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 134	Comparative Vertebrate Anatomy	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 134L	Comparative Vertebrate Anatomy Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 135	Plant Physiology	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 135L	Plant Physiology Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 136	Environmental Physiology	BIOL 20A && BIOE 20B && BIOE 20C	N
-BIOE 137	Molecular Ecology	(BIOL 20A && BIOE 20B && BIOE 20C) && (BIOE 106 || BIOL 105)	Y
-BIOE 137L	Molecular Ecology Laboratory	(BIOL 20A && BIOE 20B && BIOE 20C) && (BIOE 106 || BIOL 105)	Y
-BIOE 138	Modeling Evolution and Ecology	BIOE 107 && BIOE 109	Y
-BIOE 139	Mathematical Modeling and Data Science in Ecology and Evolution	BIOE 107 && BIOE 109	Y
-BIOE 140	Behavioral Ecology	BIOL 20A && BIOE 20B && BIOE 20C	N
-BIOE 141L	Behavioral Ecology Field Course	BIOE 107 || BIOE 140 || BIOE 110	Y
-BIOE 142L	Animal Behavior in the Wild (A Virtual Field Course)	BIOL 20A && BIOE 20B && BIOE 20C	N
-BIOE 145	Plant Ecology	(BIOL 20A && BIOE 20B && BIOE 20C) || ENVS 100	Y
-BIOE 145L	Field Methods in Plant Ecology	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 146	Acoustic Ecology	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 147	Community Ecology	BIOE 107 || BIOE 108 || BIOE 145 || BIOE 155 || BIOE 159A || ENVS 24	Y
-BIOE 149	Disease Ecology	BIOL 20A && BIOE 20B && BIOE 20C && BIOE 107	N
-BIOE 150	Ecological Field Methods	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 150L	Ecological Field Methods Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 151A	Ecology and Conservation in Practice Supercourse: Ecological Field Methods	((BIOL 20A && BIOE 20B && BIOE 20C) || (ENVS 23 && ENVS 24)) && (STAT 7 && STAT 7L)	Y
-BIOE 151B	Ecology and Conservation in Practice Supercourse: Ecological Field Methods Laboratory	((BIOL 20A && BIOE 20B && BIOE 20C) || (ENVS 23 && ENVS 24)) && (STAT 7 && STAT 7L)	Y
-BIOE 151C	Ecology and Conservation in Practice Supercourse: Functions and Processes of Terrestrial Ecosystems	((BIOL 20A && BIOE 20B && BIOE 20C) || (ENVS 23 && ENVS 24)) && (STAT 7 && STAT 7L)	Y
-BIOE 151D	Ecology and Conservation in Practice Supercourse: Conservation in Practice	((BIOL 20A && BIOE 20B && BIOE 20C) || (ENVS 23 && ENVS 24)) && (STAT 7 && STAT 7L)	Y
-BIOE 153A	Introduction to Arctic Ecology	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 153B	Arctic Ecology	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 153C	Disciplinary Communication for Biologists	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 155	Freshwater Ecology	BIOL 20A && BIOE 20B && BIOE 20C	N
-BIOE 155L	Freshwater Ecology Laboratory	BIOL 20A && BIOE 20C && BIOE 20C && BIOE 155	N
-BIOE 157A	Evolution Field Class in Southern Africa	BIOL 20A && BIOE 20C && BIOE 20C	Y
-BIOE 157B	Ichthyology Field Class in Southern Africa	BIOL 20A && BIOE 20C && BIOE 20C	Y
-BIOE 158L	Field Methods in Marine Ecology	BIOE 107 || BIOE 108	Y
-BIOE 159A	Marine Ecology Field Quarter: Marine Ecology with Laboratory		Y
-BIOE 159B	Marine Ecology Field Quarter: Ichthyology with Laboratory		Y
-BIOE 159C	Marine Ecology Field Quarter: Methods in Field Ecology		Y
-BIOE 159D	Marine Ecology Field Quarter: Methods in Field Ecology Laboratory		Y
-BIOE 159E	Marine Ecology Field Quarter: Behavioral Ecology		Y
-BIOE 159F	Marine Ecology Field Quarter: Global Change Ecology		Y
-BIOE 161	Kelp Forest Ecology	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 161L	Kelp Forest Ecology Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 163	"Ecology of Reefs, Mangroves, and Seagrasses"	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 163L	"Ecology of Reefs, Mangroves, and Seagrasses Laboratory"	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 165	Marine Conservation Biology	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 171	Disciplinary Communication for Biologists	BIOL 20A && BIOE 20B && BIOE 20C	Y
-BIOE 172	Population Genetics	BIOL 20A && BIOE 20B && BIOE 20C && (BIOE 106 || BIOL 105)	Y
-BIOE 173	Contemporary Genetics	BIOL 20A && BIOE 20B && BIOE 20C && (BIOE 106 || BIOL 105)	Y
-BIOE 174	Evolutionary Medicine	BIOL 20A && BIOE 20B && BIOE 20C && (BIOE 106 || BIOL 105)	Y
-BIOE 175	Conservation Genomics	BIOL 20A && BIOE 20B && BIOE 20C && (BIOE 106 || BIOL 105)	Y
-BIOE 176	Data Science for Ecology & Evolutionary Biology	BIOE 107 || BIOE 109	N
-BIOE 182F	Exploring Research in EEB		Y
-BIOE 183L	Undergraduate Research in EEB		Y
-BIOE 183W	Undergraduate Research in EEB--Writing	BIOE 107 || BIOE 108 || BIOE 109	Y
-BIOE 186	Experimental Design and Data Analysis		Y
-BIOE 189F	Special Topics Seminar Series: Ecology and Evolutionary Biology		N
-BIOE 193	Independent Research in EEB	BIOE 183W	Y
-BIOE 193F	Independent Research in EEB	BIOE 183W	Y
-BIOE 195	Senior Thesis		Y
-BIOE 197	Summer Intensive Research in EEB		Y
-BIOE 198F	Independent Field Study		Y
-BIOE 199	Tutorial		Y
-BIOE 199F	Tutorial		Y
-BIOE 200A	Scientific Skills		N
-BIOE 200B	Advanced Organismal Biology		N
-BIOE 200C	Evolutionary Ecology		N
-BIOE 200D	Foundations in Ecology & Evolutionary Biology		N
-BIOE 203	Introductory Seminar in Ecology and Evolutionary Biology		N
-BIOE 208	Marine Ecology		N
-BIOE 215	Advanced Seminar in Ecology and Evolutionary Biology		N
-BIOE 238	Modeling Evolution and Ecology		Y
-BIOE 239	Mathematical Modeling and Data Science in Ecology and Evolution		N
-BIOE 245	Plant Ecology	BIOE 107 || ENVS 24	N
-BIOE 245L	Field Methods in Plant Ecology Laboratory		N
-BIOE 247	Community Ecology		N
-BIOE 258L	Experimental Marine Ecology	BIOE 208	Y
-BIOE 262	Facilitating Change in Coastal Science Policy		Y
-BIOE 271	Disciplinary Communication for Biologists		N
-BIOE 272	Population Genetics		N
-BIOE 276	Data Science for Ecology and Evolutionary Biology		N
-BIOE 281A	Topics in Basic and Applied Marine Ecology		N
-BIOE 281B	Topics in Molecular Evolution		N
-BIOE 281C	Topics in Physiological Ecology		N
-BIOE 281D	Topics in Global Change Ecology		N
-BIOE 281E	Topics in Freshwater Ecology		N
-BIOE 281F	Ecological Research Topics		N
-BIOE 281G	Topics in Sexual Selection and Social Behavior		N
-BIOE 281H	Topics in Comparative Marine Physiology		N
-BIOE 281I	"Topics in Disease Ecology, Population Biology, and Conservation"		N
-BIOE 281J	Topics in Evolutionary Genomics		N
-BIOE 281K	Topics in Plant Evolution		N
-BIOE 281L	Topics in Behavioral and Evolutionary Ecology		N
-BIOE 281M	Topics in Host-Microbe Population Genomics		N
-BIOE 281N	Topics in Marine Vertebrate Ecology		N
-BIOE 281O	Topics in Plant-Water Relations		N
-BIOE 281P	Topics in Plant Population Ecology		N
-BIOE 281Q	Topics in Molecular Evolutionary Genetics		N
-BIOE 281R	Topics in Marine Ecology and Evolutionary Biology		N
-BIOE 281S	Topics in Ancient DNA and Paleogenomics		N
-BIOE 281T	Topics in Evolutionary Developmental Biology		N
-BIOE 281U	Topics in Invertebrate Biology		N
-BIOE 281V	Topics in Behavioral Ecology		N
-BIOE 281W	Topics in Exercise and Environmental Physiology		N
-BIOE 281X	Topics in Behavioral Ecology of Large Marine Vertebrates		N
-BIOE 281Y	Topics in Climate Change Biology		N
-BIOE 281Z	Conservation Science in a Changing World		N
-BIOE 286	Experimental Design and Data Analysis		Y
-BIOE 286L	Experimental Design and Data Analysis Lab		Y
-BIOE 294	"Ecology, Evolutionary Biology Seminar"		N
-BIOE 297A	Independent Study		Y
-BIOE 297B	Independent Study		Y
-BIOE 297C	Independent Study		Y
-BIOE 297F	Independent Study		Y
-BIOE 299A	Thesis Research		Y
-BIOE 299B	Thesis Research		Y
-BIOE 299C	Thesis Research		Y
-BIOL 15	Undergraduate Research Reports		Y
-BIOL 20A	Cell and Molecular Biology	CHEM 1A || CHEM 3A || CHEM 4A	Y
-BIOL 20L	Experimental Biology Laboratory	BIOL 20A	Y
-BIOL 21	Genetics Preparatory Course	BIOL 20A	N
+AM 3	Precalculus for the Social Sciences	MATH 2	
+AM 6	Precalculus for Statistics	MATH 2	
+AM 10	Linear Algebra for Engineers	MATH 3 || AM 11A || MATH 11A || MATH 19A || MATH 20A	
+AM 11A	Mathematical Methods for Economists I	AM 3 || AM 6 || MATH 3	
+AM 11B	Mathematical Methods for Economists II	AM 11A || ECON 11A || MATH 11A || MATH 19A || MATH 20A	
+AM 20	Ordinary Differential Equations for Engineers	(MATH 19B || MATH 20B) && (AM 10 || MATH 21)	
+AM 30	Multivariate Calculus for Engineers	(AM 10 || MATH 21) && (MATH 19B || MATH 20B)	
+AM 100	Mathematical Methods for Engineers	(AM 20 || MATH 24) && (AM 30 || MATH 23B)	
+AM 107	Introduction to Fluid Dynamics	AM 112 || MATH 107 || PHYS 116C || EART 111	
+AM 112	Introduction to Partial Differential Equations	AM 100	
+AM 114	Introduction to Dynamical Systems	(AM 10 || MATH 21) && (AM 20 || MATH 24) && (AM 30 || MATH 23A || MATH 22) || PHYS 116A	
+AM 115	Stochastic Modeling in Biology	STAT 131 && AM 20	
+AM 129	Foundations of Scientific Computing for Scientists and Engineers	(AM 10 && MATH 11A) || (AM 10 && MATH 19A) || (AM 10 && MATH 20A) || (MATH 21 && MATH 11A) || (MATH 21 && MATH 19A) || (MATH 21 && MATH 20A)	
+AM 147	Computational Methods and Applications	AM 10 || MATH 21	
+AM 148	GPU Programming for Scientific Computations	AM 147 || MATH 148 || PHYS 115	
+AM 160	Introduction to Scientific Machine Learning	((AM 20 && AM 30) || MATH 24 || PHYS 116A) && (AM 129 || CSE 30)	
+AM 170A	Mathematical Modeling 1	AM 30 && AM 114 && (STAT 131 || CSE 107)	
+AM 170B	Mathematical Modeling 2	AM 129 && AM 112 && AM 147 && AM 170A	
+AM 178A	Learning Assistant Training for AM 10	AM 20 && AM 30	
+AM 195	Senior Thesis Research	(AM 129 || AM 209) && AM 112 && AM 147 && AM 170A	
+AM 198	Independent Study or Research		
+AM 198F	Independent Study or Research		
+AM 200	Teaching in Applied Mathematics		
+AM 211	Foundations of Applied Mathematics		
+AM 212	Advanced Methods of Applied Mathematics		
+AM 212A	Applied Partial Differential Equations		
+AM 212B	Applied Mathematical Methods II		
+AM 213A	Numerical Linear Algebra		
+AM 213B	Numerical Methods for the Solution of Differential Equations		
+AM 215	Stochastic Modeling in Biology		
+AM 216	Stochastic Differential Equations		
+AM 217	Introduction to Fluid Dynamics		
+AM 224	Applied Dynamical Systems		
+AM 227	"Waves, Instabilities, and Turbulence in Fluids"	AM 212A && AM 217	
+AM 229	Convex Optimization		
+AM 230	Numerical Optimization		
+AM 231	Nonlinear Control Theory		
+AM 232	Applied Optimal Control	AM 114 || AM 214 || ECE 240 || ECE 241 || MATH 145	
+AM 238	Fundamentals of Uncertainty Quantification in Computational Science and Engineering	STAT 203 && AM 213B	
+AM 250	An Introduction to High Performance Computing		
+AM 260	Computational Fluid Dynamics		
+AM 275	Magnetohydrodynamics	AM 107 || AM 217	
+AM 280A	Seminar in Mathematical and Computational Biology		
+AM 280B	Seminar in Applied Mathematical Modeling		
+AM 280C	Seminar in Geophysical and Astrophysical Fluid Dynamics		
+AM 296	Masters Project		
+AM 297A	Independent Study or Research		
+AM 297B	Independent Study or Research		
+AM 297C	Independent Study or Research		
+AM 297F	Independent Study		
+AM 299A	Thesis Research		
+AM 299B	Thesis Research		
+AM 299C	Thesis Research		
+ANCS 99	Tutorial		
+ANCS 197F	Senior Comprehensive Examination Preparation		
+ANCS 199	Tutorial		
+ANCS 199F	Tutorial		
+ANTH 1	Introduction to Biological Anthropology		
+ANTH 2	Introduction to Cultural Anthropology		
+ANTH 3	Introduction to Archaeology		
+ANTH 93	Field Study		
+ANTH 97	Laboratory Safety Practicum		
+ANTH 100	History and Theory of Biological Anthropology	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 109	Stable Isotope Ecology in Anthropology and Beyond	ANTH 1	
+ANTH 101	Human Evolution	ANTH 1 || BIOE 20C	
+ANTH 102A	Human Skeletal Biology	ANTH 1	
+ANTH 103	Forensic Anthropology	ANTH 102A	
+ANTH 104	Human Variation and Adaptation		
+ANTH 105	Human Paleopathology	ANTH 1	
+ANTH 106	Primate Behavior and Ecology	ANTH 1	
+ANTH 106A	Chimpanzee Behavior and Culture A	ANTH 1	
+ANTH 106B	Chimpanzee Behavior and Culture	ANTH 106A	
+ANTH 106C	Chimpanzee Behavior and Culture	ANTH 106B	
+ANTH 107A	Methods and Research in Biological Anthropology: Genetics	ANTH 1 && ANTH 104	
+ANTH 107B	Methods and Research in Biological Anthropology: Stable Isotopes	ANTH 101 || ANTH 104 || ANTH 106 || ANTH 107 || ANTH 110F	
+ANTH 107C	Methods and Research in Biological Anthropology: Chimpanzee Behavior and Culture	ANTH 106	
+ANTH 107D	Methods and Research in Biological Anthropology–Computational Population Genetics		
+ANTH 107E	Methods And Research In Biological Anthropology: Lithic Technology	ANTH 3	
+ANTH 108	Neanderthals	ANTH 1	
+ANTH 110A	Public Life and Contemporary Issues		
+ANTH 110B	From Indiana Jones to Stonehenge: Archaeology as Popular Culture		
+ANTH 110C	California Pasts		
+ANTH 110D	Tourism Imaginaries and Encounters		
+ANTH 110E	Anthropology of Global Environmental Change		
+ANTH 110F	Evolution of Human Diet		
+ANTH 110G	"Westside Stories: Race, Place and the California Imaginary"		
+ANTH 110H	Brazilian Amazon Cultures and Environments		
+ANTH 110I	Cultures of Sustainability and Social Justice		
+ANTH 110IG	Cultures Of Sustainability And Social Justice Abroad		
+ANTH 110J	Emerging Humanity		
+ANTH 110K	Culture Through Food		
+ANTH 110M	Cultures of Mental Health		
+ANTH 110L	The Human Ocean		
+ANTH 110N	Anthropology of Food		
+ANTH 110O	Postcolonial Britain and France		
+ANTH 110P	India and Indian Diaspora through Film		
+ANTH 110Q	Queer Sexuality in Black Popular Culture		
+ANTH 110R	Discourses in American Religions and Their Role in Public Life		
+ANTH 110S	Evolution of Democracy		
+ANTH 110T	Motherhood in American Culture		
+ANTH 110U	Histories and Cultures of Piracy		
+ANTH 110V	American Capitalism		
+ANTH 110W	Land and Waterscapes Entropology		
+ANTH 110Y	Feeding California		
+ANTH 110Z	Introduction to Disability Studies		
+ANTH 111	Human Ecology		
+ANTH 112	Life Cycles	ANTH 1	
+ANTH 113	Tutoring Writing in Anthropology		
+ANTH 119	Indigenous Visual Culture		
+ANTH 121	Socialism		
+ANTH 122	Postsocialism		
+ANTH 123	Psychological Anthropology	ANTH 2	
+ANTH 124	Anthropology of Religion		
+ANTH 125	"Magic, Science, and Religion"		
+ANTH 126	Contraband: Shadow Economies and the Law		
+ANTH 127	Ethnographies of Capitalism		
+ANTH 128	Contemporary American Evangelical Cultures		
+ANTH 129	Beyond Borders: Other Globalizations and Histories of Interconnection		
+ANTH 130A	Anthropology of Africa.		
+ANTH 130B	Brazil	ANTH 2	
+ANTH 130C	Politics and Culture in China		
+ANTH 130D	The Cultural Aspects of the Israeli-Palestinian Conflict		
+ANTH 130E	Culture and Politics of Island Southeast Asia	ANTH 2	
+ANTH 130F	Blackness In Motion: Anthropology of the African Diasporas		
+ANTH 130G	Asian Americans in Ethnography and Film		
+ANTH 130H	Ethnography of Russia and Eastern Europe		
+ANTH 130I	Cultures of India		
+ANTH 130IG	Cultures of India Abroad		
+ANTH 130J	Politics and Statemaking in Latin America		
+ANTH 130K	Food Cultures in South Asia		
+ANTH 130L	Ethnographies of Latin America	ANTH 2	
+ANTH 130M	Inside Mexico		
+ANTH 130N	Native Peoples of North America		
+ANTH 130O	"Native Feminisms, Gender, and Settler Colonialism"		
+ANTH 130P	Ethnography of Southern Cone Chile and Argentina		
+ANTH 130S	"Ethnography of Russia and Eastern Europe, Abroad"		
+ANTH 130T	Religion and Politics in the Muslim World		
+ANTH 130U	Central America		
+ANTH 130V	Ethnography of Russia		
+ANTH 130W	Ethnography of Eastern Europe		
+ANTH 130X	Special Topics in Ethnography	ANTH 2	
+ANTH 130Y	"Health, Illness, & Medicines in Muslim Worlds"	ANTH 2 || GCH 1	
+ANTH 131	Gender in Cross-Cultural Context		
+ANTH 131H	Russian-Language Readings Course: Readings in Anthropology of Russia	ANTH 130H	
+ANTH 132	"Food, Culture, and Justice in Israel/Palestine"		
+ANTH 133	Narratives of the Popular		
+ANTH 134	Medical Anthropology: An Introduction	ANTH 2	
+ANTH 135A	Cities		
+ANTH 136	The Biology of Everyday Life	ANTH 2	
+ANTH 137	Consuming Culture		
+ANTH 138	Political Anthropology		
+ANTH 139	Language and Culture	ANTH 2	
+ANTH 140	The Body in Rain: Environmental and Medical Intersections		
+ANTH 142	Anthropology of Law		
+ANTH 143	Performance and Power	ANTH 2	
+ANTH 144	Anthropology of Poverty and Welfare		
+ANTH 145X	Special Topics in Socio-Cultural Anthropology	ANTH 2	
+ANTH 146	Anthropology and the Environment	ANTH 2	
+ANTH 147	Anthropology and the Anthropocene	ANTH 2	
+ANTH 148	Gender and Global Development		
+ANTH 149	Anthropology of Activism		
+ANTH 150	Communicating Anthropology	(ANTH 1 && ANTH 2) || (ANTH 2 && ANTH 3) || (ANTH 1 && ANTH 3)	
+ANTH 151	Workshop in Ethnography	ANTH 2	
+ANTH 151S	Workshop in Ethnography Abroad		
+ANTH 152	Survey of Cultural Anthropological Theory	ANTH 2	
+ANTH 153	Medicine and Colonialism	ANTH 2 && ANTH 134	
+ANTH 157	Modernity and Its Others		
+ANTH 158	Feminist Ethnographies		
+ANTH 159	Race and Anthropology		
+ANTH 160	Reproductive and Population Politics		
+ANTH 161	The Anthropology of Food		
+ANTH 161S	"Anthropology of Food, Abroad"		
+ANTH 162	Anthropology of Displaced Persons		
+ANTH 163	Kinship		
+ANTH 164	The Anthropology of Dance	ANTH 2	
+ANTH 166	"States, Bureaucracies , and Other Cosmological Propositions"		
+ANTH 170	History of Archaeological Theory	ANTH 3	
+ANTH 171	Materials and Methods in Historical Archaeology	ANTH 3	
+ANTH 172	Archaeological Research Design	ANTH 3	
+ANTH 173	Origins of Farming		
+ANTH 174	Origins of Complex Societies	ANTH 3	
+ANTH 175	African Archaeology	ANTH 3	
+ANTH 176A	North American Archaeology	ANTH 3	
+ANTH 176B	Meso-American Archaeology	ANTH 3	
+ANTH 176C	Archaeology of the American Southwest	ANTH 3 && ANTH 176A	
+ANTH 176D	Colonial Encounters in the Americas	ANTH 2 && ANTH 3	
+ANTH 176E	Archaeology of the Pacific Northwest	ANTH 3	
+ANTH 176F	California Archaeology	ANTH 3	
+ANTH 176G	Andean Archaeology	ANTH 3	
+ANTH 177	Environmental Archaeology		
+ANTH 178	Historical Archaeology: A Global Perspective		
+ANTH 180	Ceramic Analysis in Archaeology	ANTH 3	
+ANTH 181X	Special Topics in Archaeology	ANTH 3	
+ANTH 183	Introduction to Geographic Information Systems for Anthropology		
+ANTH 184	Zooarchaeology	ANTH 3	
+ANTH 185	"Osteology of Mammals, Birds, and Fish"	ANTH 184 || ANTH 102 || (BIOL 138 && BIOL 138L) || EART 100 || (ENVS 105 && ENVS 105L)	
+ANTH 187	Cultural Heritage in Colonial Contexts		
+ANTH 187B	Cultural Resource Management	ANTH 3	
+ANTH 188A	Practicum in Archaeology A	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 188B	Practicum in Archaeology B	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 188C	Practicum in Archaeology C	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 189	Archaeology Field Methods		
+ANTH 189A	Archaeological Field Techniques	ANTH 3	
+ANTH 190X	Special topics in Biological Anthropology	ANTH 1	
+ANTH 194A	Anthropology of Dead Persons	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194B	"Chimpanzees: Biology, Behavior, and Evolution"	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194C	Feminist Anthropology	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194D	Tribes/Castes/Women	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194E	Belief	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194F	Memory	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194G	Politics and Secularism	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194H	Paleoanthropology	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194I	Consumption and Consumerism	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194J	Histories of Forests and Other Wild Places		
+ANTH 194K	Reading Ethnographies	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194L	Archaeology of the African Diaspora	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194M	Medical Anthropology	ANTH 1 && ANTH 2 && ANTH 3 && ANTH 134	
+ANTH 194N	Comparison of Cultures	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194O	Masculinities	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194P	"Space, Place, and Culture"		
+ANTH 194Q	"Race, Ethnicity, Nation"	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194R	"Religion, Gender, Sexuality"	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194S	Hearing Culture: The Anthropology of Sound	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194T	Poverty and Inequality	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194U	"Environmental Anthropology: Nature, Culture, Politics"		
+ANTH 194V	Who Owns the Past? Ethical and Political Dimensions of Contemporary Archaeology	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194W	The Anthropology of Social Movements	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194X	Women in Politics: A Third World Perspective	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194Y	Archaeologies of Space and Landscape	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 194Z	Emerging Worlds	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 195A	Biological Anthropology Senior Thesis Series: Research Design		
+ANTH 195B	Biological Anthropology Senior Thesis Series: Guided Laboratory Research	ANTH 195A	
+ANTH 195C	Biological Anthropology Senior Thesis Series: Thesis Writing	ANTH 195B	
+ANTH 195S	Senior Thesis		
+ANTH 196C	Traveling Cultures	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196D	Food and Medicine	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196E	Pastoralists Past and Present	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196F	"The Anthropology of Things: Gift, Sign, Commodity, Tool"	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196G	"Queer Worlds: Sexuality, Intimacy and Power in Contemporary Ethnography"	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196H	Global History and the Longue Duree	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196I	Hard Problems	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196J	Imagining America	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196K	Settler Colonialism	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196L	Archaeology of the American Southwest	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196M	Modernity and its Others	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196N	"The Body, Narrative, and Creative Practice"	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196O	Gender and Politics	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196P	Disability and Difference	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196Q	Property	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196R	Design Anthropology		
+ANTH 196S	Food for Thought	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196T	Archaeology of Technology	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196U	Historical Anthropology	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196V	Radical Craft	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196W	Anthropology of Weather and Exposure	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 196X	Medicines for the Soul	ANTH 1 && ANTH 2 && ANTH 3	
+ANTH 197	Laboratory Tutorial		
+ANTH 197F	Laboratory Tutorial		
+ANTH 198	Independent Field Study		
+ANTH 198F	Ind Field Study		
+ANTH 198G	Independent Field Study		
+ANTH 199	Tutorial		
+ANTH 199F	Tutorial		
+ANTH 200	Theoretical Foundations of Physical Anthropological Research		
+ANTH 200A	Cultural Graduate Core Course		
+ANTH 200B	Cultural Graduate Core Course		
+ANTH 201	Human Evolution		
+ANTH 202A	Skeletal Biology	ANTH 102A	
+ANTH 208A	Ethnographic Practice		
+ANTH 208C	Design Anthropology		
+ANTH 210R	Religion in American Politics and Culture		
+ANTH 211	Human Ecology		
+ANTH 212	The Human Life Cycle		
+ANTH 214	Culture and Power		
+ANTH 216	Methods in Biological Anthropology		
+ANTH 219	"Religions, States, Secularities"		
+ANTH 220	Cartographies of Culture		
+ANTH 224	Anthropology of Secularism		
+ANTH 225	"The Anthropology of Things: Sign, Gift, Commodity, Tool"		
+ANTH 228	Grant Writing		
+ANTH 229	Constructing Regions		
+ANTH 230	"Bodies, Images, Screens"		
+ANTH 231	Intimacy and Affective Labor		
+ANTH 232	"Bodies, Knowledge, Practice"		
+ANTH 233	Politics of Nature		
+ANTH 234	Feminist Anthropology		
+ANTH 235	Language and Culture		
+ANTH 238	Advanced Topics in Cultural Anthropology		
+ANTH 241	Social Justice		
+ANTH 243	Cultures of Capitalism		
+ANTH 246	Advanced Readings in Environmental Anthropology		
+ANTH 247	Critical Perspectives on Nutrition		
+ANTH 248	"Shadowy Dealings: Anthropology of Finance, Money, and Law"		
+ANTH 249	Ecological Discourses		
+ANTH 252	Survey of Cultural Anthropological Theory		
+ANTH 253	Advanced Cultural Theory		
+ANTH 254	Medicine and Culture		
+ANTH 255	Regulating Religion/Sex		
+ANTH 258	Experimental Cultures		
+ANTH 259	Race in Theory and Ethnography		
+ANTH 260	Anthropology of Freedom		
+ANTH 261	"Replication, Mimesis, and Fakery"		
+ANTH 262	Documenting Cultures		
+ANTH 263	Kinship		
+ANTH 269	Global History and the Longue Duree		
+ANTH 270	History of Archaeology		
+ANTH 270A	Archaeology Graduate Core Course: History of Archaeological Theory		
+ANTH 270B	Current Directions in Archaeological Theory	ANTH 270A	
+ANTH 272	Advanced Archaeological Research		
+ANTH 273	Origins of Farming		
+ANTH 274	Origins of Complex Societies		
+ANTH 275	Tutorial in African Archaeology		
+ANTH 276A	Advanced Topics in North American Archaeology		
+ANTH 276B	Mesoamerican Archaeology		
+ANTH 276G	Archaeology of Colonial Borderlands		
+ANTH 278	Tutorial on Historical Archaeology		
+ANTH 279	Feminism and Gender in Archaeology		
+ANTH 280	Advanced Ceramic Analysis		
+ANTH 280L	Advanced Ceramic Analysis Laboratory		
+ANTH 281	Landscape Archaeology		
+ANTH 282	Household Archaeology		
+ANTH 283	Introduction to Geographic Information Systems for Anthropology		
+ANTH 284	Tutorial in Zooarchaeology		
+ANTH 285	"Osteology of Mammals, Birds, and Fish"		
+ANTH 287	Advanced Topics in Archaeology		
+ANTH 287A	Advanced Topics: Indigenous Archaeology		
+ANTH 287B	Advanced Topics: Archaeology in the Age of Big Data		
+ANTH 290T	Pedagogy of Anthropology		
+ANTH 292	Graduate Colloquium		
+ANTH 294N	Comparison of Cultures		
+ANTH 294R	Advanced Readings in Biological Anthropology		
+ANTH 295A	Scientific Method: Biological Anthropology		
+ANTH 296N	"The Body, Narrative, and Creative Practice"		
+ANTH 297A	Independent Study		
+ANTH 297B	Independent Study		
+ANTH 297C	Independent Study		
+ANTH 297F	Independent Study		
+ANTH 298	Advanced Laboratory Apprenticeship		
+ANTH 299A	Thesis Research		
+ANTH 299B	Thesis Research		
+ANTH 299C	Thesis Research		
+ANTH 299W	Anthropology Dissertation Workshop		
+APLX 55	"Pardon My French: Politeness, Impoliteness, Swearing, Slang, and Humor"		
+APLX 80	Introduction to Applied Linguistics		
+APLX 99	Tutorial		
+APLX 99F	Tutorial		
+APLX 101	Second-Language Acquisition	APLX 80 || LING 50	
+APLX 102	Bilingualism	APLX 80 || LING 50	
+APLX 103	Second Language Speech	APLX 80 || LING 50	
+APLX 105	Language Loss	APLX 80 || LING 50	
+APLX 112	Language and Gender		
+APLX 113	Inter-Cultural Communication		
+APLX 113I	Intercultural Communication—Global Internship		
+APLX 115	Language and Power	APLX 80	
+APLX 116	Discourse Analysis: Language Use and Context	LING 50	
+APLX 122	Linguistic Diversity & Social Justice	APLX 80	
+APLX 124	Second Language Variation and Sociolinguistics	APLX 101	
+APLX 135	Second Language Teaching		
+APLX 136	Second Language Assessment		
+APLX 138	English Grammar for TESOL		
+APLX 190	Research Seminar in Applied Linguistics	APLX 80 && APLX 101	
+APLX 199	Tutorial		
+APLX 199F	Tutorial		
+APLX 235	Second Language Teaching		
+ARBC 1	First-Year Arabic		
+ARBC 2	First-Year Arabic	ARBC 1	
+ARBC 3	First-Year Arabic	ARBC 2	
+ARBC 4	Second-Year Arabic	ARBC 3	
+ART 10D	2D Foundation		
+ART 10E	3D Foundation		
+ART 10F	4D Foundation		
+ART 15	Introduction to Drawing for the Major		
+ART 20G	Introduction to Print Media and Drawing	(ART 10D && ART 10E) || (ART 10D && ART 10F) || (ART 10E && ART 10F)	
+ART 20H	Introduction to Sculpture and Public Art	(ART 10D && ART 10E) || (ART 10D && ART 10F) || (ART 10E && ART 10F)	
+ART 20I	Introduction to Photography	(ART 10D && ART 10E) || (ART 10D && ART 10F) || (ART 10E && ART 10F)	
+ART 20J	Introduction to Drawing and Painting	(ART 10D && ART 10E) || (ART 10D && ART 10F) || (ART 10E && ART 10F)	
+ART 20K	Introduction to New Media and Digital Artmaking	(ART 10D && ART 10E) || (ART 10D && ART 10F) || (ART 10E && ART 10F)	
+ART 20L	Introduction to Drawing		
+ART 80D	Fundamentals of Photography		
+ART 80E	Environmental Art in the Expanded Field		
+ART 80F	Introduction to Issues in Digital Media		
+ART 80Q	Queer Art		
+ART 80T	Digital Tools for Contemporary Art Practice		
+ART 80X	Ars Erotica: Sexual Imagery in Culture and Art		
+ART 99	Tutorial		
+ART 101	Introduction to Computer Programming for the Arts		
+ART 104	Digital Video	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	
+ART 106A	2D Animation	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	
+ART 106C	Stop Motion Animation	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	
+ART 106E	3D Modeling and Animation	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	
+ART 106G	Immersive Nonfiction	ART 80T && (ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26)	
+ART 106O	2D Animation		
+ART 108	"Art, Design, and Social Practice"	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	
+ART 109	Special Topics in Media Art	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	
+ART 110	Intermediate/Advanced Drawing	(ART 15 || ART 20L || ART 20J) && (ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	
+ART 111	Figure Drawing	(ART 15 || ART 20L || ART 20J) && (ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	
+ART 112	Mixed Media Works on Paper	(ART 15 || ART 20L || ART 20J) && (ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	
+ART 113	Illustrating Stories: Fantasy and Documentary Narratives	(ART 15 || ART 20L || ART 20J) && (ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	
+ART 114	Landscape Drawing	(ART 15 || ART 20L || ART 20J) && (ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	
+ART 119	Special Topics in Drawing	(ART 15 || ART 20L || ART 20J) && (ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	
+ART 125	Environmental Art Studio		
+ART 130	Intermediate/Advanced Painting	(ART 20J || ART 133 || ART 137 || ART 138 || ART 139) && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 132	Figure Painting		
+ART 133	Abstract Painting	(ART 20J || ART 20L || ART 130 || ART 137 || ART 138 || ART 139) && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K)	
+ART 135	Digital Painting		
+ART 137	Outdoor Painter's Project	(ART 20J || ART 130 || ART 133 || ART 138 || ART 139) && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 138	Facture and Meaning	(ART 20J || ART 130 || ART 133 || ART 137 || ART 139) && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 139	Special Topics in Painting	(ART 20J || ART 130 || ART 133 || ART 137 || ART 138) && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20I 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 145	Vector Art and Illustration		
+ART 150	Darkroom Practices	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 152A	Photographic Book	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 152C	View Camera Photography		
+ART 153	Still to Moving: Topics in Cinematography for Artists	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 154A	Being Social: Photography and Engagement	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 154B	"Photography, Place, Environment"	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 154C	After Archives: Photographers & Research	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 155	Photo Field Research Quarter (PFRQ): California Road Trip		
+ART 156	Project Development in Photography	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 157	Immersive Arts Field Research		
+ART 158	Advanced Photography	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L)	
+ART 159	Special Topics in Photography	ART 20I && (ART 15 2?? ART 20G 2?? ART 20H 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 161B	Relief/Mixed Media Printmaking	(ART 20G || ART 26) && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L)	
+ART 161C	Tradition and Innovation: Relief Printmaking in Korea	ART 20G	
+ART 161J	Mokuhanga: UCSC Printmaking in Japan	ART 20G	
+ART 162A	Intaglio I	(ART 20G || ART 26) && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L)	
+ART 163A	Lithography I	(ART 20G || ART 26) && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L)	
+ART 163C	Magnified Imagination: A Printmaking Approach	ART 20G && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 164A	Screenprinting	(ART 20G || ART 26) && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L)	
+ART 165	Print Media in Visual Communication	ART 20G && (ART 160B || ART 161B || ART 161C || ART 162A || ART 162B || ART 163A || ART 163B || ART 163C || ART 164A || ART 164S || ART 168 || ART 169)	
+ART 166	Art of Bookmaking	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L	
+ART 168	Photo-Based Printmaking	(ART 20G || ART 26) && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L)	
+ART 169	Special Topics in Printmaking	(ART 20G || ART 26) && (ART 15 2?? ART 20H 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L)	
+ART 170	Playgrounds: Forms of Gathering and Playing	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L	
+ART 172	"Public Art: Memory, Landscape, and Artist as Activist"		
+ART 175	Taking Art to the Streets	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	
+ART 177	Careers in the Creative Economy		
+ART 180B	Intermediate/Advanced Sculpture	(ART 20H || ART 120 || ART 121 || ART 122 || ART 124 || ART 125 || ART 129 || ART 172 || ART 183 || ART 188 || ART 189) && (ART 15 2?? ART 20G 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 181	"Art, Power & Politics"	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	
+ART 182	Materiality of Color	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	
+ART 183	Metal Fabrication	(ART 20H || ART 120 || ART 121 || ART 122 || ART 124 || ART 125 || ART 129 || ART 172 || ART 180B || ART 188 || ART 189) && (ART 15 2?? ART 20G 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 184	3D Art and Design I	(ART 20H || ART 101 || ART 102 || ART 103 || ART 106E || ART 108 || ART 120 || ART 121 || ART 122 || ART 124 || ART 125 || ART 129 || ART 146T || THEA 106 || ART 172 || ART 180B || ART 183 || ART 188 || ART 189) && (ART 15 2?? ART 20G 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 185	3D Art and Design II	(ART 20H || ART 101 || ART 102 || ART 103 || ART 106E || ART 108 || ART 180B || ART 183 || ART 184 || ART 188)  && (ART 15 2?? ART 20G 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 186	Art and Globalization	ART 15 3?? ART 20G 3?? ART 20H 3?? ART 20I 3?? ART 20J 3?? ART 20K 3?? ART 20L 3?? ART 26	
+ART 188	Bronze Casting: Foundry	(ART 20H || ART 120 || ART 121 || ART 122 || ART 124 || ART 125 || ART 129 || ART 172 || ART 180B || ART 183 || ART 189) && (ART 15 2?? ART 20G 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 189	Special Topics in Sculpture	(ART 20H || ART 120 || ART 121 || ART 122 || ART 124 || ART 125 || ART 129 || ART 172 || ART 175 || ART 180B || ART 183 || ART 188) && (ART 15 2?? ART 20G 2?? ART 20I 2?? ART 20J 2?? ART 20K 2?? ART 20L 2?? ART 26)	
+ART 190A	Writing for Artists		
+ART 190B	Senior Project		
+ART 191	Teaching Apprenticeship		
+ART 192	Directed Student Teaching		
+ART 193	Field Study		
+ART 194	Forms and Ideas		
+ART 196	Independent Senior Project		
+ART 197	Individual Study		
+ART 198	Independent Field Study		
+ART 199	Tutorial		
+ART 199F	Tutorial		
+ART 210A	Practice-Based Research Group: Sites		
+ART 210B	Practice-Based Research Group: Systems		
+ART 210C	Practice-Based Research Group: Contexts		
+ART 220	Methods and Histories		
+ART 230	Theory and Practice	ART 220	
+ART 240	Art Pedagogies		
+ART 250	Writing Matters		
+ART 257	Immersive Arts Field Research		
+ART 260	Curatorial Collective		
+ART 270A	Project Development and Critique I	ART 210A && ART 210B && ART 210C && ART 220	
+ART 270B	Project Development and Critique II	ART 270A	
+ART 280	MFA Project Production	ART 270A && ART 270B	
+ART 297	Independent Study		
+ART 299F	Thesis Research		
+ARTG 10	Aesthetic Designs		
+ARTG 20	Games as Art		
+ARTG 25	Games as Art & Activism		
+ARTG 30	Games as Activism		
+ARTG 40	Designing Experiences		
+ARTG 50	Play as a Radical Endeavor		
+ARTG 80G	Visual Communication and Interaction Design		
+ARTG 80H	Critical History of Digital Games		
+ARTG 90	Open Source Contributor Studio		
+ARTG 91	Introduction to Game Art Production		
+ARTG 92	Digital Presentation and Portfolio Design Across Disciplines		
+ARTG 118	Character Creation for Video Games		
+ARTG 120	Game Design Experience		
+ARTG 129	Special Topics in Game Design		
+ARTG 129A	Special Topics in Game Design	ARTG 80G && ARTG 80H && ARTG 80I	
+ARTG 131	3D Game Art Production	ARTG 10 && (ARTG 20 || ARTG 25 || ARTG 30)	
+ARTG 132	3D Character Rigging and Animation for Video Games	ARTG 10 && (ARTG 20 || ARTG 25 || ARTG 30)	
+ARTG 134	"Spectacular Play: Performance, Ritual, and Making a Scene IRL"		
+ARTG 136	Digital Sculpting for Video Games	ARTG 118	
+ARTG 137	Experimental Tabletop RPG Design		
+ARTG 138	Feminist Games		
+ARTG 139	Queer and Trans Art and Games		
+ARTG 140	Writing for Interactive Narrative		
+ARTG 141	Introduction to Virtual Reality		
+ARTG 142	Black Aesthetics: Interventions in Digital Media		
+ARTG 143	Ecofutures		
+ARTG 145	Non-Digital Game Design		
+ARTG 170A	Game Design Studio I		
+ARTG 170B	Design Studio I: Individual Track		
+ARTG 171	Game Design Studio II		
+ARTG 172	Game Design Studio III	ARTG 171	
+ARTG 176	Game Design Collaborative		
+ARTG 180	Personal Narrative in Play		
+ARTG 181	Portfolio		
+ARTG 199	Tutorial		
+ARTG 199F	Tutorial		
+ASTR 1	Introduction to the Cosmos		
+ASTR 2	Overview of the Universe		
+ASTR 3	Introductory Astronomy: Planetary Systems		
+ASTR 4	Introductory Astronomy: The Stars		
+ASTR 5	Introductory Astronomy: The Formation and Evolution of the Universe		
+ASTR 6	The Space-Age Solar System		
+ASTR 7	Black Holes		
+ASTR 8	Exploring the Universe with Astronomical Data		
+ASTR 9A	Introduction to Research in Physics and Astrophysics		
+ASTR 9B	Introduction to Research in Physics and Astrophysics		
+ASTR 10	From the Big Bang to Planet Earth		
+ASTR 12	Stars and Stellar Evolution		
+ASTR 13	"Galaxies, Cosmology, and High Energy Astrophysics"		
+ASTR 15	Dead Stars and Black Holes		
+ASTR 16	Astrobiology: Life in the Universe		
+ASTR 18	Planets and Planetary Systems		
+ASTR 19	Practical Programming for the Sciences		
+ASTR 21	"The Diverse Universe: Stars, Planets, and Galaxies"	PHYS 5A	
+ASTR 111	Order-of-Magnitude Astrophysics	(MATH 22A || MATH 23A) && (PHYS 5B || PHYS 6B)	
+ASTR 112	Physics of Stars	(MATH 22A || MATH 23A) && (PHYS 5B || PHYS 6B) && PHYS 102	
+ASTR 113	Introduction to Cosmology	(MATH 22A || MATH 23A) && (PHYS 5B || PHYS 6B) && PHYS 102	
+ASTR 117	High Energy Astrophysics	(MATH 22A || MATH 23A) && (PHYS 5B || PHYS 6B) && PHYS 102	
+ASTR 118	Physics of Planetary Systems	(MATH 22A || MATH 23A) && (PHYS 5B || PHYS 6B)	
+ASTR 119	Introduction to Scientific Computing	MATH 11A || MATH 19A || MATH 20A || AM 15A	
+ASTR 136	Advanced Astronomy Laboratory	ASTR 119 && PHYS 133	
+ASTR 136A	Advanced Astronomy Lab: Astrometry	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	
+ASTR 136B	Advanced Astronomy Lab: Galaxy Rotation Curves and Dark Matter	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	
+ASTR 136C	Advanced Astronomy Lab: Stellar Photometry	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	
+ASTR 136D	Advanced Astronomy Lab: Wavefront Measurement	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	
+ASTR 136E	Advanced Astronomy Lab: Adaptive Optics	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	
+ASTR 136G	Advanced Astronomy Lab: Detectors	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	
+ASTR 136H	Advanced Astronomy Lab: Fourier Optics	PHYS 133 && (ASTR 119 || ASTR 19 || CSE 20)	
+ASTR 192	Dir Stu Teach		
+ASTR 199	Tutorial		
+ASTR 202	Astrophysics I		
+ASTR 204	Astrophysics II		
+ASTR 205	Introduction to Astronomical Research and Teaching		
+ASTR 206	Introduction to Research Mentoring		
+ASTR 214	Special Topics in Galactic and Extragalactic Astronomy		
+ASTR 215	Research Practicum for Astrophysics	ASTR 202 && ASTR 204 && ASTR 205 && ASTR 257	
+ASTR 220A	Stars and Planets I		
+ASTR 222	Stars and Planets II		
+ASTR 225	High-Energy Astrophysics		
+ASTR 230	Diffuse Matter in Space		
+ASTR 233	Galaxies and Cosmology I		
+ASTR 234	Statistical Techniques in Astronomy		
+ASTR 240A	Galaxies and Cosmology II		
+ASTR 257	Observational Astronomy		
+ASTR 260	Instrumentation for Astronomy		
+ASTR 289	Adaptive Optics and Its Application		
+ASTR 292	Seminar		
+ASTR 293	Current Literature in Astrophysics		
+ASTR 294	Pedagogy of Astrophysical Research		
+ASTR 297A	Independent Study		
+ASTR 297B	Independent Study		
+ASTR 297C	Independent Study		
+ASTR 297D	Independent Study		
+ASTR 299A	Thesis Research		
+ASTR 299B	Thesis Research		
+ASTR 299C	Thesis Research		
+BIOC 100A	Biochemistry and Molecular Biology	CHEM 8B && BIOL 20A	
+BIOC 100B	Biochemistry and Molecular Biology	BIOC 100A	
+BIOC 100C	Biochemistry and Molecular Biology	BIOC 100B	
+BIOC 110L	Advanced Biochemistry Laboratory	BIOC 100B	
+BIOC 163A	"Quantum Mechanics, Spectroscopy and Molecular Structure for Biochemistry and Molecular Biology"	CHEM 1B && (CHEM 1C || CHEM 3C || CHEM 4B) && ((PHYS 5A && PHYS 5C) || (PHYS 6A && PHYS 6C))	
+BIOC 163B	Biochemical Thermodynamics and Statistical Mechanics for Biochemistry and Molecular Biology	CHEM 1B && (CHEM 1C || CHEM 3C || CHEM 4B) && (PHYS 5A || PHYS 6A)	
+BIOE 16	Introduction to Horticulture		
+BIOE 19	Biodiversity in the Age of Humans		
+BIOE 20B	Development and Physiology	BIOL 20A	
+BIOE 20C	Ecology and Evolution		
+BIOE 20F	Field Biology in Practice		
+BIOE 75	Scientific Diving Methods		
+BIOE 80S	"Lies, Damn Lies, and Statistics"		
+BIOE 82	Introduction to Field Research and Conservation		
+BIOE 85	Natural History of the UCSC Natural Reserves		
+BIOE 95	Seymour Center Docent Training		
+BIOE 99	Tutorial		
+BIOE 106	Principles of Genetics for EEB	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 107	Ecology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 108	Marine Ecology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 109	Evolution	(BIOL 20A && BIOE 20B && BIOE 20C) && (BIOE 106 || BIOL 105)	
+BIOE 112	Ornithology	BIOE 107 || BIOE 109 || BIOE 140	
+BIOE 112L	Ornithology Field Studies	BIOE 107 || BIOE 109 || BIOE 140	
+BIOE 114	Herpetology	BIOE 107 || BIOE 109 || BIOE 140	
+BIOE 114L	Field Methods in Herpetological Research	BIOE 107 || BIOE 109 || BIOE 140	
+BIOE 117	Systematic Botany of Flowering Plants	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 117L	Systematic Botany of Flowering Plants Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 118	"Plants and Society: the Biology of Food, Shelter, and Medicine"	(BIOL 20A && BIOE 20B && BIOE 20C) || (ENVS 23 && ENVS 24)	
+BIOE 120	Marine Botany	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 120L	Marine Botany Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 121	"Plants, Earth, Climate"	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 122	Invertebrate Zoology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 122L	Invertebrate Zoology Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 124	Mammalogy	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 124L	Mammalogy Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 125	Ecosystems of California	BIOE 20C	
+BIOE 126	Biology of Large Marine Vertebrates	BIOE 20B && BIOE 20C	
+BIOE 127	Ichthyology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 127L	Ichthyology Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 128L	Large Marine Vertebrates Field Course	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 129	Biology of Marine Mammals	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 129L	Biology of Marine Mammals Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 131	Animal Physiology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 131L	Animal Physiology Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 133	Exercise Physiology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 133L	Exercise Physiology Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 134	Comparative Vertebrate Anatomy	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 134L	Comparative Vertebrate Anatomy Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 135	Plant Physiology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 135L	Plant Physiology Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 136	Environmental Physiology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 137	Molecular Ecology	(BIOL 20A && BIOE 20B && BIOE 20C) && (BIOE 106 || BIOL 105)	
+BIOE 137L	Molecular Ecology Laboratory	(BIOL 20A && BIOE 20B && BIOE 20C) && (BIOE 106 || BIOL 105)	
+BIOE 138	Modeling Evolution and Ecology	BIOE 107 && BIOE 109	
+BIOE 139	Mathematical Modeling and Data Science in Ecology and Evolution	BIOE 107 && BIOE 109	
+BIOE 140	Behavioral Ecology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 141L	Behavioral Ecology Field Course	BIOE 107 || BIOE 140 || BIOE 110	
+BIOE 142L	Animal Behavior in the Wild (A Virtual Field Course)	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 145	Plant Ecology	(BIOL 20A && BIOE 20B && BIOE 20C) || ENVS 100	
+BIOE 145L	Field Methods in Plant Ecology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 146	Acoustic Ecology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 147	Community Ecology	BIOE 107 || BIOE 108 || BIOE 145 || BIOE 155 || BIOE 159A || ENVS 24	
+BIOE 149	Disease Ecology	BIOL 20A && BIOE 20B && BIOE 20C && BIOE 107	
+BIOE 150	Ecological Field Methods	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 150L	Ecological Field Methods Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 151A	Ecology and Conservation in Practice Supercourse: Ecological Field Methods	((BIOL 20A && BIOE 20B && BIOE 20C) || (ENVS 23 && ENVS 24)) && (STAT 7 && STAT 7L)	
+BIOE 151B	Ecology and Conservation in Practice Supercourse: Ecological Field Methods Laboratory	((BIOL 20A && BIOE 20B && BIOE 20C) || (ENVS 23 && ENVS 24)) && (STAT 7 && STAT 7L)	
+BIOE 151C	Ecology and Conservation in Practice Supercourse: Functions and Processes of Terrestrial Ecosystems	((BIOL 20A && BIOE 20B && BIOE 20C) || (ENVS 23 && ENVS 24)) && (STAT 7 && STAT 7L)	
+BIOE 151D	Ecology and Conservation in Practice Supercourse: Conservation in Practice	((BIOL 20A && BIOE 20B && BIOE 20C) || (ENVS 23 && ENVS 24)) && (STAT 7 && STAT 7L)	
+BIOE 153A	Introduction to Arctic Ecology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 153B	Arctic Ecology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 153C	Disciplinary Communication for Biologists	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 155	Freshwater Ecology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 155L	Freshwater Ecology Laboratory	BIOL 20A && BIOE 20C && BIOE 20C && BIOE 155	
+BIOE 157A	Evolution Field Class in Southern Africa	BIOL 20A && BIOE 20C && BIOE 20C	
+BIOE 157B	Ichthyology Field Class in Southern Africa	BIOL 20A && BIOE 20C && BIOE 20C	
+BIOE 158L	Field Methods in Marine Ecology	BIOE 107 || BIOE 108	
+BIOE 159A	Marine Ecology Field Quarter: Marine Ecology with Laboratory		
+BIOE 159B	Marine Ecology Field Quarter: Ichthyology with Laboratory		
+BIOE 159C	Marine Ecology Field Quarter: Methods in Field Ecology		
+BIOE 159D	Marine Ecology Field Quarter: Methods in Field Ecology Laboratory		
+BIOE 159E	Marine Ecology Field Quarter: Behavioral Ecology		
+BIOE 159F	Marine Ecology Field Quarter: Global Change Ecology		
+BIOE 161	Kelp Forest Ecology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 161L	Kelp Forest Ecology Laboratory	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 163	"Ecology of Reefs, Mangroves, and Seagrasses"	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 163L	"Ecology of Reefs, Mangroves, and Seagrasses Laboratory"	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 165	Marine Conservation Biology	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 171	Disciplinary Communication for Biologists	BIOL 20A && BIOE 20B && BIOE 20C	
+BIOE 172	Population Genetics	BIOL 20A && BIOE 20B && BIOE 20C && (BIOE 106 || BIOL 105)	
+BIOE 173	Contemporary Genetics	BIOL 20A && BIOE 20B && BIOE 20C && (BIOE 106 || BIOL 105)	
+BIOE 174	Evolutionary Medicine	BIOL 20A && BIOE 20B && BIOE 20C && (BIOE 106 || BIOL 105)	
+BIOE 175	Conservation Genomics	BIOL 20A && BIOE 20B && BIOE 20C && (BIOE 106 || BIOL 105)	
+BIOE 176	Data Science for Ecology & Evolutionary Biology	BIOE 107 || BIOE 109	
+BIOE 182F	Exploring Research in EEB		
+BIOE 183L	Undergraduate Research in EEB		
+BIOE 183W	Undergraduate Research in EEB--Writing	BIOE 107 || BIOE 108 || BIOE 109	
+BIOE 186	Experimental Design and Data Analysis		
+BIOE 189F	Special Topics Seminar Series: Ecology and Evolutionary Biology		
+BIOE 193	Independent Research in EEB	BIOE 183W	
+BIOE 193F	Independent Research in EEB	BIOE 183W	
+BIOE 195	Senior Thesis		
+BIOE 197	Summer Intensive Research in EEB		
+BIOE 198F	Independent Field Study		
+BIOE 199	Tutorial		
+BIOE 199F	Tutorial		
+BIOE 200A	Scientific Skills		
+BIOE 200B	Advanced Organismal Biology		
+BIOE 200C	Evolutionary Ecology		
+BIOE 200D	Foundations in Ecology & Evolutionary Biology		
+BIOE 203	Introductory Seminar in Ecology and Evolutionary Biology		
+BIOE 208	Marine Ecology		
+BIOE 215	Advanced Seminar in Ecology and Evolutionary Biology		
+BIOE 238	Modeling Evolution and Ecology		
+BIOE 239	Mathematical Modeling and Data Science in Ecology and Evolution		
+BIOE 245	Plant Ecology	BIOE 107 || ENVS 24	
+BIOE 245L	Field Methods in Plant Ecology Laboratory		
+BIOE 247	Community Ecology		
+BIOE 258L	Experimental Marine Ecology	BIOE 208	
+BIOE 262	Facilitating Change in Coastal Science Policy		
+BIOE 271	Disciplinary Communication for Biologists		
+BIOE 272	Population Genetics		
+BIOE 276	Data Science for Ecology and Evolutionary Biology		
+BIOE 281A	Topics in Basic and Applied Marine Ecology		
+BIOE 281B	Topics in Molecular Evolution		
+BIOE 281C	Topics in Physiological Ecology		
+BIOE 281D	Topics in Global Change Ecology		
+BIOE 281E	Topics in Freshwater Ecology		
+BIOE 281F	Ecological Research Topics		
+BIOE 281G	Topics in Sexual Selection and Social Behavior		
+BIOE 281H	Topics in Comparative Marine Physiology		
+BIOE 281I	"Topics in Disease Ecology, Population Biology, and Conservation"		
+BIOE 281J	Topics in Evolutionary Genomics		
+BIOE 281K	Topics in Plant Evolution		
+BIOE 281L	Topics in Behavioral and Evolutionary Ecology		
+BIOE 281M	Topics in Host-Microbe Population Genomics		
+BIOE 281N	Topics in Marine Vertebrate Ecology		
+BIOE 281O	Topics in Plant-Water Relations		
+BIOE 281P	Topics in Plant Population Ecology		
+BIOE 281Q	Topics in Molecular Evolutionary Genetics		
+BIOE 281R	Topics in Marine Ecology and Evolutionary Biology		
+BIOE 281S	Topics in Ancient DNA and Paleogenomics		
+BIOE 281T	Topics in Evolutionary Developmental Biology		
+BIOE 281U	Topics in Invertebrate Biology		
+BIOE 281V	Topics in Behavioral Ecology		
+BIOE 281W	Topics in Exercise and Environmental Physiology		
+BIOE 281X	Topics in Behavioral Ecology of Large Marine Vertebrates		
+BIOE 281Y	Topics in Climate Change Biology		
+BIOE 281Z	Conservation Science in a Changing World		
+BIOE 286	Experimental Design and Data Analysis		
+BIOE 286L	Experimental Design and Data Analysis Lab		
+BIOE 294	"Ecology, Evolutionary Biology Seminar"		
+BIOE 297A	Independent Study		
+BIOE 297B	Independent Study		
+BIOE 297C	Independent Study		
+BIOE 297F	Independent Study		
+BIOE 299A	Thesis Research		
+BIOE 299B	Thesis Research		
+BIOE 299C	Thesis Research		
+BIOL 15	Undergraduate Research Reports		
+BIOL 20A	Cell and Molecular Biology	CHEM 1A || CHEM 3A || CHEM 4A	
+BIOL 20L	Experimental Biology Laboratory	BIOL 20A	
+BIOL 21	Genetics Preparatory Course	BIOL 20A	
 BIOL 25	Frosh/Soph Seminar in Neuroscience		
 BIOL 80A	Female Physiology and Gynecology		
 BIOL 80J	Biology of Emerging and Pandemic Diseases		
@@ -2472,77 +2472,77 @@ FILM 80S	Special Topics in Film and Digital Media
 FILM 80T	Technothrillers		
 FILM 80V	Video Games as Visual Culture		
 FILM 80X	Sex in the Cinema		
-FILM 120	Introduction to Media Theory		
-FILM 130	Silent Cinema		
-FILM 132A	International Cinema to 1960		
-FILM 132B	"International Cinema, 1960 to Present"		
-FILM 134A	"American Film, 1930-1960"		
-FILM 134B	"American Film, 1960-Present"		
-FILM 136A	Experimental Film and Video		
-FILM 136B	History of Television		
-FILM 136C	Visual Culture and Technology: History of New Media		
-FILM 136D	Documentary Film and Video		
-FILM 145	Social Media Documentary Theory and Production		
+FILM 120	Introduction to Media Theory	FILM 20A	
+FILM 130	Silent Cinema	FILM 20A	
+FILM 132A	International Cinema to 1960	FILM 20A	
+FILM 132B	"International Cinema, 1960 to Present"	FILM 20A	
+FILM 134A	"American Film, 1930-1960"	FILM 20A || FILM 20B	
+FILM 134B	"American Film, 1960-Present"	FILM 20A || FILM 20B	
+FILM 136A	Experimental Film and Video	FILM 20A	
+FILM 136B	History of Television	FILM 20B	
+FILM 136C	Visual Culture and Technology: History of New Media	FILM 20C	
+FILM 136D	Documentary Film and Video	FILM 20A || FILM 20B	
+FILM 145	Social Media Documentary Theory and Production	FILM 20P	
 FILM 150	Screenwriting		
-FILM 151	Film Directing		
-FILM 152	Script Analysis		
-FILM 160	Film Genres		
-FILM 160H	"Film Genres, Horror"		
-FILM 160W	"Film Genres, The Western"		
-FILM 161B	Documentary Animation		
-FILM 162	Film Authors		
-FILM 162F	Female Filmmakers		
-FILM 165A	"Film, Video, and Gender"		
-FILM 165B	Race on Screen		
+FILM 151	Film Directing	FILM 170B	
+FILM 152	Script Analysis	FILM 120	
+FILM 160	Film Genres	FILM 130 || FILM 132A || FILM 132B || FILM 132C || FILM 134A || FILM 134B	
+FILM 160H	"Film Genres, Horror"	FILM 130 || FILM 132A || FILM 132B || FILM 134A || FILM 134B	
+FILM 160W	"Film Genres, The Western"	FILM 130 || FILM 132A || FILM 132B || FILM 134A || FILM 134B	
+FILM 161B	Documentary Animation	FILM 20A	
+FILM 162	Film Authors	FILM 130 || FILM 132A || FILM 132B || FILM 134A || FILM 134B	
+FILM 162F	Female Filmmakers	FILM 20A	
+FILM 165A	"Film, Video, and Gender"	FILM 20A || FILM 20B	
+FILM 165B	Race on Screen	FILM 20A || FILM 20B	
 FILM 165C	"Lesbian, Gay, and Queer Film and Video"		
-FILM 165D	Asian Americans and Media		
-FILM 165E	"Chicana/o Cinema, Video"		
-FILM 165G	Gender and Global Cinema		
-FILM 168	National Cinema and Culture		
-FILM 168A	Arab and North African Cinemas		
-FILM 168F	Francophone African Cinema		
+FILM 165D	Asian Americans and Media	FILM 20A	
+FILM 165E	"Chicana/o Cinema, Video"	FILM 20A	
+FILM 165G	Gender and Global Cinema	FILM 20A	
+FILM 168	National Cinema and Culture	FILM 130 || FILM 132A || FILM 132B || FILM 132C	
+FILM 168A	Arab and North African Cinemas	FILM 132A || FILM 132B	
+FILM 168F	Francophone African Cinema	FILM 132A || FILM 132B	
 FILM 168M	National Cinema and Culture: Morocco		
-FILM 170A	Fundamentals of Digital Media Production		
-FILM 170B	Fundamentals of Film and Video Production		
-FILM 171A	Sound		
-FILM 171C	Special Topics Workshop: Found Footage		
-FILM 171D	Social Information Spaces		
-FILM 171F	Special Topics Workshop: Autobiographical Film		
-FILM 171S	Special Topics in Film and Digital Media Production		
-FILM 172	Narrative Video Workshop		
-FILM 173	Narrative Digital Media Workshop		
+FILM 170A	Fundamentals of Digital Media Production	FILM 20C || CSE 101 || CSE 111	
+FILM 170B	Fundamentals of Film and Video Production	FILM 20A || FILM 20B	
+FILM 171A	Sound	FILM 170A || FILM 170B	
+FILM 171C	Special Topics Workshop: Found Footage	FILM 20A	
+FILM 171D	Social Information Spaces	FILM 170A	
+FILM 171F	Special Topics Workshop: Autobiographical Film	FILM 170B	
+FILM 171S	Special Topics in Film and Digital Media Production	FILM 170B	
+FILM 172	Narrative Video Workshop	FILM 170B	
+FILM 173	Narrative Digital Media Workshop	FILM 170A	
 FILM 174A	Reasonable Doubts: Making an Exoneree Part A		
-FILM 174B	Reasonable Doubts: Making an Exoneree Part B		
-FILM 175	Documentary Video Workshop		
-FILM 176	Experimental Video Workshop		
-FILM 177	Digital Media Workshop: Computer as Medium		
-FILM 178A	Personal Computers in Film and Video		
-FILM 178B	Advanced Personal Computers in Film and Video		
-FILM 179A	Special Topics in Animation		
-FILM 179B	Documentary Animation Workshop		
-FILM 180	"Writing About Film, Television, and Digital Media"		
-FILM 185D	Sound and Image in Theory and Criticism		
-FILM 185F	Advanced Topics in Film Studies		
-FILM 185R	The Film Remake		
-FILM 185S	Advanced Topics in Film Studies		
+FILM 174B	Reasonable Doubts: Making an Exoneree Part B	FILM 174A	
+FILM 175	Documentary Video Workshop	FILM 170B	
+FILM 176	Experimental Video Workshop	FILM 170B	
+FILM 177	Digital Media Workshop: Computer as Medium	FILM 170A	
+FILM 178A	Personal Computers in Film and Video	FILM 170A || FILM 170B	
+FILM 178B	Advanced Personal Computers in Film and Video	FILM 170A || FILM 170B	
+FILM 179A	Special Topics in Animation	FILM 170A || FILM 170B	
+FILM 179B	Documentary Animation Workshop	FILM 170A || FILM 170B	
+FILM 180	"Writing About Film, Television, and Digital Media"	FILM 20A || FILM 20B || FILM 20C	
+FILM 185D	Sound and Image in Theory and Criticism	FILM 120	
+FILM 185F	Advanced Topics in Film Studies	FILM 120 || FILM 130 || FILM 132A || FILM 132B || FILM 165G || FILM 134A || FILM 134B	
+FILM 185R	The Film Remake	FILM 120 || FILM 130 || FILM 132A || FILM 132B || FILM 165G || FILM 134A || FILM 134B	
+FILM 185S	Advanced Topics in Film Studies	FILM 120 || FILM 130 || FILM 132A || FILM 132B || FILM 165G || FILM 134A || FILM 134B	
 FILM 185X	EyeCandy Seminar		
-FILM 187	Advanced Topics in Television Studies		
-FILM 189	Advanced Topics in Digital and Electronic Media Studies		
+FILM 187	Advanced Topics in Television Studies	FILM 20B	
+FILM 189	Advanced Topics in Digital and Electronic Media Studies	FILM 20C	
 FILM 192	Directed Student Teaching		
 FILM 193F	Group Tutorial		
-FILM 194A	Film Theory Seminar		
-FILM 194B	Electronic Media Theory Seminar		
-FILM 194C	New Media Theory Seminar		
-FILM 194D	Film History Seminar		
-FILM 194E	International Cinemas		
-FILM 194F	Film and the Other Arts		
-FILM 194G	New(s) Media		
-FILM 194H	Ethics and Documentary Filmmaking		
+FILM 194A	Film Theory Seminar	FILM 120	
+FILM 194B	Electronic Media Theory Seminar	FILM 120	
+FILM 194C	New Media Theory Seminar	FILM 120	
+FILM 194D	Film History Seminar	FILM 120	
+FILM 194E	International Cinemas	FILM 120	
+FILM 194F	Film and the Other Arts	FILM 120	
+FILM 194G	New(s) Media	FILM 120	
+FILM 194H	Ethics and Documentary Filmmaking	FILM 120	
 FILM 194S	Special Topics Seminar		
 FILM 195	Senior Thesis/Project		
-FILM 196A	Senior Project in Narrative Production		
-FILM 196B	Senior Project in Screenwriting		
-FILM 196C	Senior Project in Documentary		
+FILM 196A	Senior Project in Narrative Production	FILM 170B	
+FILM 196B	Senior Project in Screenwriting	FILM 150 || THEA 157 || THEA 159	
+FILM 196C	Senior Project in Documentary	FILM 170B	
 FILM 197	Senior Digital Media Workshop		
 FILM 198	Independent Field Study		
 FILM 198F	Independent Field Study		
@@ -2676,27 +2676,27 @@ FMST 297F	Independent Study
 FMST 299A	Thesis Research		
 FMST 299B	Thesis Research		
 FREN 1	First-Year French		
-FREN 2	First-Year French		
-FREN 3	First-Year French		
-FREN 4	Second-Year French		
-FREN 5	Second-Year French		
-FREN 6	Second-Year French		
-FREN 35	Conversational practice and vocabulary development		
+FREN 2	First-Year French	FREN 1	
+FREN 3	First-Year French	FREN 2	
+FREN 4	Second-Year French	FREN 3	
+FREN 5	Second-Year French	FREN 4	
+FREN 6	Second-Year French	FREN 5	
+FREN 35	Conversational practice and vocabulary development	FREN 3	
 FREN 85	(De)constructing contemporary French identity		
 FREN 94	Group Tutorial		
 FREN 99	Tutorial		
 FREN 99F	Tutorial		
 FREN 105	French Regional Cultures Through Cuisine		
 FREN 108	French Cinema		
-FREN 111	Stylistics		
-FREN 114	French Phonetics		
-FREN 120	French Linguistics		
-FREN 121	History of the French Language		
-FREN 125A	French Civilization: 19th Century		
-FREN 125B	French Civilization: 20th Century		
-FREN 130	French for Professions		
-FREN 131	Social Activism in France: The Tradition of Chanson Française Engagée		
-FREN 136	La Francophonie		
+FREN 111	Stylistics	FREN 6	
+FREN 114	French Phonetics	FREN 6	
+FREN 120	French Linguistics	FREN 6	
+FREN 121	History of the French Language	FREN 6	
+FREN 125A	French Civilization: 19th Century	FREN 6	
+FREN 125B	French Civilization: 20th Century	FREN 6	
+FREN 130	French for Professions	FREN 6	
+FREN 131	Social Activism in France: The Tradition of Chanson Française Engagée	FREN 6	
+FREN 136	La Francophonie	FREN 6	
 FREN 194	Group Tutorial		
 FREN 199	Tutorial		
 FREN 199F	Tutorial		
@@ -2750,7 +2750,7 @@ GRAD 202	Reading and Research Skills for Graduate Students
 GRAD 213	Equity-Minded Mentoring in Higher Education: Fostering Inclusive Research and Learning Environments		
 GRAD 215	Equitable Course Design for Graduate Student Instructors		
 GREE 1	Elementary Ancient Greek		
-GREE 2	Elementary Ancient Greek		
+GREE 2	Elementary Ancient Greek	GREE 1	
 GREE 99	Tutorial		
 GREE 99F	Tutorial		
 HAVC 10	Introduction to African Visual Culture		
@@ -2884,13 +2884,13 @@ HAVC 188A	Introduction to Curatorial Studies
 HAVC 188B	Biennials and Mega-Exhibitions		
 HAVC 188C	"Site-Specific Art, Installations, Artists and Institutional Practice"		
 HAVC 188M	Visual Culture of Memory		
-HAVC 190A	African Art and Visual Culture		
+HAVC 190A	African Art and Visual Culture	HAVC 10 || HAVC 80	
 HAVC 190B	Play and Ritual in Visual Cultures		
 HAVC 190C	The Mediterranean from the Rise of Christianity to the Rise of Islam		
-HAVC 190D	The World of the Lotus Sutra		
-HAVC 190E	Huayan Visions		
-HAVC 190F	Chan Texts and Images		
-HAVC 190G	Buddhist Wisdom Traditions		
+HAVC 190D	The World of the Lotus Sutra	HAVC 127A	
+HAVC 190E	Huayan Visions	HAVC 127A	
+HAVC 190F	Chan Texts and Images	HAVC 127A	
+HAVC 190G	Buddhist Wisdom Traditions	HAVC 127A	
 HAVC 190H	Constructions of Identity in 20th c. Tibetan Visual Culture		
 HAVC 190J	Visual Cultures of the Vietnam-American War		
 HAVC 190K	Thematic Approach to Visual Cultures of Southeast Asia and Its Diaspora		
@@ -2967,9 +2967,9 @@ HAVC 297F	Independent Study
 HAVC 299A	Thesis Research		
 HAVC 299B	Thesis Research		
 HEBR 1	First-Year Hebrew		
-HEBR 2	First-Year Hebrew		
-HEBR 3	First-Year Hebrew		
-HEBR 4	Second-Year Hebrew		
+HEBR 2	First-Year Hebrew	HEBR 1	
+HEBR 3	First-Year Hebrew	HEBR 2	
+HEBR 4	Second-Year Hebrew	HEBR 3	
 HEBR 80	Introduction to Biblical Hebrew		
 HEBR 82	Hebrew: Travel Abroad		
 HEBR 94	Group Tutorial		
@@ -3052,10 +3052,10 @@ HISC 169	"Blue Humanities: Oceans, Humanity, and the Future"
 HISC 185C	Comparative Religion: A Critical Introduction		
 HISC 185T	Marxism and Feminism		
 HISC 187	The Emergence of the Avant-garde from Disenchantment to Dada		
-HISC 190	Nature or Nurture?		
+HISC 190	Nature or Nurture?	HISC 166	
 HISC 199	Tutorial		
 HISC 203A	Approaches to History of Consciousness		
-HISC 203B	Approaches to History of Consciousness		
+HISC 203B	Approaches to History of Consciousness	HISC 203A	
 HISC 205	Global Political Thought		
 HISC 207	Undisciplining Theory		
 HISC 208	Humanism and its Critics		
@@ -3085,7 +3085,7 @@ HISC 237A	Historical Materialism
 HISC 237B	Historical Materialism		
 HISC 240	Basic Principles of University-Level Pedagogy		
 HISC 242A	Violence and Phenomenology: Fanon/Hegel/Sartre		
-HISC 242B	Violence and Phenomenology: Fanon/Hegel/Sartre		
+HISC 242B	Violence and Phenomenology: Fanon/Hegel/Sartre	HISC 242A	
 HISC 244	Racial Capitalism		
 HISC 246	Black Radicalism		
 HISC 248	Black Critical Theory		
@@ -3393,7 +3393,7 @@ HIS 227	Gender and Colonialism
 HIS 229	Worlds of Labor in Asia		
 HIS 229A	Pacific Worlds		
 HIS 230A	Readings in Late Imperial China		
-HIS 230B	Engendering China		
+HIS 230B	Engendering China	HISC 230A	
 HIS 230C	Readings in 20th-Century China		
 HIS 231	Historicizing the People's Republic of China		
 HIS 238A	Research Methods: China		
@@ -3447,38 +3447,38 @@ HUMN 45	Race and Technology
 HUMN 55	Technologies of Representation		
 ITAL 1	First-Year Italian		
 ITAL 1A	Accelerated Italian		
-ITAL 1B	Accelerated Italian		
-ITAL 2	First-Year Italian		
-ITAL 3	First-Year Italian		
-ITAL 4	Second-Year Italian		
-ITAL 5	Second-Year Italian		
-ITAL 6	Second-Year Italian		
+ITAL 1B	Accelerated Italian	ITAL 1A || ITAL 2	
+ITAL 2	First-Year Italian	ITAL 1	
+ITAL 3	First-Year Italian	ITAL 2	
+ITAL 4	Second-Year Italian	ITAL 1B || ITAL 3	
+ITAL 5	Second-Year Italian	ITAL 4	
+ITAL 6	Second-Year Italian	ITAL 5	
 ITAL 50	Basic Italian Conversation		
 ITAL 80	Italian Culture Through Cinema		
 ITAL 94	Group Tutorial		
 ITAL 99	Tutorial		
 ITAL 99F	Tutorial		
-ITAL 100	Advanced Italian Composition and Conversation		
+ITAL 100	Advanced Italian Composition and Conversation	ITAL 6	
 ITAL 101	Italian Culture through Food		
-ITAL 106	Italian Culture Through Film		
+ITAL 106	Italian Culture Through Film	ITAL 6	
 ITAL 194	Group Tutorial		
 ITAL 199	Tutorial		
 ITAL 199F	Tutorial		
 JAPN 1	First-Year Japanese		
-JAPN 2	First-Year Japanese		
-JAPN 3	First-Year Japanese		
-JAPN 4	Second-Year Japanese		
-JAPN 5	Second-Year Japanese		
-JAPN 6	Second-Year Japanese		
+JAPN 2	First-Year Japanese	JAPN 1	
+JAPN 3	First-Year Japanese	JAPN 2	
+JAPN 4	Second-Year Japanese	JAPN 3	
+JAPN 5	Second-Year Japanese	JAPN 4	
+JAPN 6	Second-Year Japanese	JAPN 5	
 JAPN 94	Group Tutorial		
 JAPN 99	Tutorial		
 JAPN 99F	Tutorial		
-JAPN 103	Advanced Japanese		
-JAPN 104	Advanced Japanese		
-JAPN 105	Advanced Japanese		
-JAPN 106	Advanced Japanese		
-JAPN 109	"Japanese Language, Culture, and Society"		
-JAPN 111	Japanese Arts and Beyond		
+JAPN 103	Advanced Japanese	JAPN 6	
+JAPN 104	Advanced Japanese	JAPN 103	
+JAPN 105	Advanced Japanese	JAPN 104	
+JAPN 106	Advanced Japanese	JAPN 104	
+JAPN 109	"Japanese Language, Culture, and Society"	JAPN 104	
+JAPN 111	Japanese Arts and Beyond	JAPN 104	
 JAPN 194	Group Tutorial		
 JAPN 199	Tutorial		
 JAPN 199F	Tutorial		
@@ -3495,12 +3495,12 @@ JRLC 98	Alternative Spring Break
 JRLC 105	The Making and Influencing of Environmental Policy		
 JRLC 106	Expressive Arts for Social Justice		
 JRLC 111	Joy In Social Movements		
-JRLC 115	Research Methods for Social Justice		
+JRLC 115	Research Methods for Social Justice	CLNI 85 || JRLC 85	
 JRLC 120	Practical Activism Conference Planning and Development		
 JRLC 125A	Transcommunal Peace Making		
 JRLC 125B	Transcommunal Peace Making		
 JRLC 135	Apprenticeship in Community Engaged Research		
-JRLC 136	Methodologies of Critical Praxis		
+JRLC 136	Methodologies of Critical Praxis	JRLC 135	
 JRLC 140	"Secrecy, Knowledge, and Politics"		
 JRLC 191	Teaching Social Justice		
 JRLC 194	Group Tutorial		
@@ -3701,7 +3701,7 @@ LALS 299A	Thesis Research
 LALS 299B	Thesis Resaerch		
 LALS 299C	Thesis Research		
 LATN 1	Elementary Latin		
-LATN 2	Elementary Latin		
+LATN 2	Elementary Latin	LATN 1	
 LATN 99	Tutorial		
 LATN 99F	Tutorial		
 LGST 10	Introduction to Legal Process		
@@ -3755,96 +3755,96 @@ LING 80C	"Language, Society, and Culture"
 LING 80D	Language and Mind		
 LING 80H	The Human Voice		
 LING 80K	"Invented Languages, from Elvish to Esperanto"		
-LING 80L	"Predicting Words with Numbers: From Code-Breaking to Spell-Check, and Large Language Models"		
+LING 80L	"Predicting Words with Numbers: From Code-Breaking to Spell-Check, and Large Language Models"	LING 50 || LING 53 || LING 80K || LING 80M	
 LING 80M	Language and Indigeneity in Mesoamerica		
 LING 80S	The Science of Language: An Introduction to Linguistics for Non-Majors		
 LING 80V	Structure of the English Vocabulary		
 LING 99	Tutorial		
 LING 100	Sounds of the World's Languages: Phonetics I		
-LING 101	Phonology I		
-LING 102	Phonology II		
-LING 103	Phonology III		
-LING 105	Morphology		
-LING 108	Poetry and Language		
+LING 101	Phonology I	LING 100	
+LING 102	Phonology II	LING 101 && (LING 111 || LING 112)	
+LING 103	Phonology III	LING 102	
+LING 105	Morphology	LING 101 && (LING 111 || LING 112)	
+LING 108	Poetry and Language	LING 101 && (LING 111 || LING 112)	
 LING 111	Syntactic Structures		
 LING 112	Syntax I		
-LING 113	Syntax II		
-LING 114A	Syntax III		
+LING 113	Syntax II	LING 53 && (LING 111 || LING 112)	
+LING 114A	Syntax III	LING 113	
 LING 114B	Readings in Linguistics		
 LING 114C	Topics in Linguistics		
-LING 116	Semantics II		
-LING 117	Pragmatics		
-LING 118	Semantics III		
-LING 119	Narrative Structure: The linguistics of storytelling		
-LING 120	Structure of English		
-LING 124	Language Typology		
-LING 125	Foundations of Linguistic Theory		
-LING 127	History of Linguistics		
+LING 116	Semantics II	LING 53 && (LING 111 || LING 112)	
+LING 117	Pragmatics	LING 53 && LING 101 && (LING 111 || LING 112)	
+LING 118	Semantics III	LING 116	
+LING 119	Narrative Structure: The linguistics of storytelling	LING 53	
+LING 120	Structure of English	LING 101 && (LING 111 || LING 112)	
+LING 124	Language Typology	LING 101 && (LING 111 || LING 112)	
+LING 125	Foundations of Linguistic Theory	LING 113 || LING 116	
+LING 127	History of Linguistics	LING 101 && (LING 111 || LING 112)	
 LING 131	Spanglish: Language and Identities through Contact		
-LING 132	California Englishes		
+LING 132	California Englishes	LING 50	
 LING 133	Language OnLine (LOL): Communication in the Digital Era		
-LING 135	Language and Racialization		
-LING 137	Queer Linguistics		
-LING 140	Language Change		
-LING 141	Ellipsis		
-LING 144	Computational Methods for Linguists		
-LING 145	Native Languages of North America		
-LING 147	Quantitative Methods in Linguistics		
+LING 135	Language and Racialization	LING 50	
+LING 137	Queer Linguistics	LING 50 || LING 80C || LING 101 || LING 112	
+LING 140	Language Change	LING 101 && (LING 111 || LING 112)	
+LING 141	Ellipsis	LING 53 && LING 101 && (LING 111 || LING 112)	
+LING 144	Computational Methods for Linguists	LING 50 && (LING 53 || LING 101 || LING 111 || LING 112 || LING 171)	
+LING 145	Native Languages of North America	LING 101 && (LING 111 || LING 112)	
+LING 147	Quantitative Methods in Linguistics	LING 53 && (LING 100 || LING 112 || LING 171)	
 LING 149	Research Skills in Linguistics		
-LING 151	Phonetics II		
-LING 152	Applied Phonetics		
-LING 154	Language and Social Identity		
-LING 155	Language and Cognition		
+LING 151	Phonetics II	LING 100	
+LING 152	Applied Phonetics	LING 151	
+LING 154	Language and Social Identity	LING 101 && (LING 111 || LING 112)	
+LING 155	Language and Cognition	LING 53 && LING 101 && (LING 111 || LING 112)	
 LING 160	Language Engineering		
-LING 164	Linguistics for Engineers		
-LING 171	Psycholinguistics I		
-LING 172	Psycholinguistics II		
-LING 174	Neurolinguistics		
-LING 176	Variation in Language Processing		
-LING 180	Structure of a Particular Language		
-LING 181	Structure of Romance Languages		
-LING 182	Structure of Spanish		
-LING 183	Structure of French		
-LING 185	Structure of Russian		
-LING 186	Structure of German		
-LING 187	Structure of Japanese		
-LING 188	Structure of Chinese Languages		
-LING 189	Structure of Arabic		
-LING 190	Senior Research		
+LING 164	Linguistics for Engineers	CSE 10 && CSE 14	
+LING 171	Psycholinguistics I	LING 50	
+LING 172	Psycholinguistics II	LING 171	
+LING 174	Neurolinguistics	LING 171	
+LING 176	Variation in Language Processing	LING 50	
+LING 180	Structure of a Particular Language	LING 101 && (LING 111 || LING 112)	
+LING 181	Structure of Romance Languages	LING 101 && (LING 111 || LING 112)	
+LING 182	Structure of Spanish	LING 101 && (LING 111 || LING 112)	
+LING 183	Structure of French	LING 101 && (LING 111 || LING 112)	
+LING 185	Structure of Russian	LING 101 && (LING 111 || LING 112)	
+LING 186	Structure of German	LING 101 && (LING 111 || LING 112)	
+LING 187	Structure of Japanese	LING 101 && (LING 111 || LING 112)	
+LING 188	Structure of Chinese Languages	LING 101 && (LING 111 || LING 112)	
+LING 189	Structure of Arabic	LING 101 && (LING 111 || LING 112)	
+LING 190	Senior Research	LING 101 && (LING 111 || LING 112)	
 LING 193	Field Study		
 LING 195	Senior Thesis		
 LING 198	Independent Field Study		
 LING 199	Tutorial		
 LING 199F	Tutorial		
 LING 211	Phonology A		
-LING 212	Phonology B		
+LING 212	Phonology B	LING 211	
 LING 214	Phonetics		
-LING 215	Phonetics B		
-LING 216	Phonology Proseminar		
-LING 219	Phonology Seminar		
-LING 219G	Phonology Seminar		
+LING 215	Phonetics B	LING 214	
+LING 216	Phonology Proseminar	LING 212	
+LING 219	Phonology Seminar	LING 212	
+LING 219G	Phonology Seminar	LING 212	
 LING 221	Syntax A		
-LING 222	Syntax B		
-LING 226	Proseminar in Syntax		
-LING 226G	Proseminar in Syntax		
-LING 229	Syntax Seminar		
-LING 229G	Syntax Seminar		
+LING 222	Syntax B	LING 221	
+LING 226	Proseminar in Syntax	LING 222	
+LING 226G	Proseminar in Syntax	LING 222	
+LING 229	Syntax Seminar	LING 222	
+LING 229G	Syntax Seminar	LING 222	
 LING 231	Semantics A		
-LING 232	Semantics B		
-LING 236	Proseminar in Semantics		
-LING 236G	Semantics Proseminar		
-LING 239	Semantics Seminar		
-LING 239G	Semantics Seminar		
+LING 232	Semantics B	LING 231	
+LING 236	Proseminar in Semantics	LING 231	
+LING 236G	Semantics Proseminar	LING 231	
+LING 239	Semantics Seminar	LING 232	
+LING 239G	Semantics Seminar	LING 232	
 LING 240	The Pedagogy of Linguistics		
 LING 244	Computational Methods for Linguists		
-LING 248	Topics in Computational Methods and Models		
+LING 248	Topics in Computational Methods and Models	LING 221 && LING 231	
 LING 249	Morphology Seminar		
 LING 249G	Morphology Seminar		
 LING 257	Psycholinguistics and Linguistic Theory		
-LING 258	Advanced Psycholinguistics		
-LING 258G	Advanced Psycholinguistics		
-LING 259	Phonetics Seminar		
-LING 259G	Phonetics Seminar		
+LING 258	Advanced Psycholinguistics	LING 257	
+LING 258G	Advanced Psycholinguistics	LING 257	
+LING 259	Phonetics Seminar	LING 214	
+LING 259G	Phonetics Seminar	LING 214	
 LING 279	Research Seminar in Psycholinguistics		
 LING 280	Proseminar in Experimental Linguistics		
 LING 280A	Linguistic Investigation		
@@ -4133,13 +4133,13 @@ LIT 179B	Advanced Writing: Poetry
 LIT 179C	Methods and Materials		
 LIT 179E	Writing for Transformation		
 LIT 181A	"Biblical Hebrew, Part 1"		
-LIT 181B	"Biblical Hebrew, Part 2"		
+LIT 181B	"Biblical Hebrew, Part 2"	LIT 181A	
 LIT 181C	Coptic		
 LIT 181D	"Reading Egyptian Hieroglyphs, Part 1"		
-LIT 181E	"Reading Egyptian Hieroglyphs, Part 2"		
-LIT 181F	"Reading Egyptian Hieroglyphs, Part 3"		
+LIT 181E	"Reading Egyptian Hieroglyphs, Part 2"	LIT 181D	
+LIT 181F	"Reading Egyptian Hieroglyphs, Part 3"	LIT 181E	
 LIT 181G	"Sanskrit, Part 1"		
-LIT 181H	"Sanskrit, Part 2"		
+LIT 181H	"Sanskrit, Part 2"	LIG 181G	
 LIT 182A	Le Moyen Age		
 LIT 182E	Etudes de Poésie		
 LIT 182F	Le théâtre		
@@ -4193,7 +4193,7 @@ LIT 188R	Humanidades Ambientales
 LIT 188Z	Literatura de España		
 LIT 189A	De la conquista a Sor Juana		
 LIT 189B	"El Siglo XIX en América Latina: cultura, política y sociedad"		
-LIT 189C	Introducción a Spanish Studies		
+LIT 189C	Introducción a Spanish Studies	SPAN 6 || SPHS 6	
 LIT 189D	Sor Juana Ines de la Cruz		
 LIT 189E	Cuba		
 LIT 189F	"Literaturas Latinas en los Estados Unidos: en inglés, español y Spanglish"		
@@ -4214,26 +4214,26 @@ LIT 189U	Modernidad y literatura: El Boom de la novela latinoamericana
 LIT 189V	Andean Indigenismo		
 LIT 189X	Estudios mediaticos		
 LIT 189Z	Literatura de Chile		
-LIT 190A	Topics in Pre- and Early Modern Studies		
-LIT 190F	Studies in Poetry		
-LIT 190I	Individual Authors		
-LIT 190J	Studies in English Language Literature		
-LIT 190K	Studies in U.S. Literature		
-LIT 190L	Topics in World Literature and Cultural Studies		
-LIT 190N	Studies in 19th-Century British Literature		
-LIT 190O	"Studies in Slavery, Race, and Nation in the Americas"		
-LIT 190T	Topics in Modern Literary Studies		
-LIT 190U	Topics in Theory		
-LIT 190V	Fiction Senior Seminar		
-LIT 190W	Poetry Senior Seminar		
-LIT 190X	Temas de la literatura y cultura espanolas y latinoamericanas		
-LIT 190Y	Topics in Jewish Literature and Culture		
-LIT 190Z	Topics in German Literature and Culture		
+LIT 190A	Topics in Pre- and Early Modern Studies	LIT 101	
+LIT 190F	Studies in Poetry	LIT 101	
+LIT 190I	Individual Authors	LIT 101	
+LIT 190J	Studies in English Language Literature	LIT 101	
+LIT 190K	Studies in U.S. Literature	LIT 101	
+LIT 190L	Topics in World Literature and Cultural Studies	LIT 101	
+LIT 190N	Studies in 19th-Century British Literature	LIT 101	
+LIT 190O	"Studies in Slavery, Race, and Nation in the Americas"	LIT 101	
+LIT 190T	Topics in Modern Literary Studies	LIT 101	
+LIT 190U	Topics in Theory	LIT 101	
+LIT 190V	Fiction Senior Seminar	LIT 101	
+LIT 190W	Poetry Senior Seminar	LIT 101	
+LIT 190X	Temas de la literatura y cultura espanolas y latinoamericanas	LIT 101	
+LIT 190Y	Topics in Jewish Literature and Culture	LIT 101	
+LIT 190Z	Topics in German Literature and Culture	LIT 101	
 LIT 191	Methodologies of Teaching		
 LIT 192	Directed Student Teaching		
-LIT 195A	Senior Essay		
-LIT 195B	Senior Essay		
-LIT 195C	Senior Essay		
+LIT 195A	Senior Essay	LIT 101	
+LIT 195B	Senior Essay	LIT 101	
+LIT 195C	Senior Essay	LIT 101	
 LIT 198A	Group Tutorial		
 LIT 198B	Group Tutorial		
 LIT 198C	Group Tutorial		
@@ -4753,7 +4753,7 @@ NLP 271B	Capstone II: Natural Language Processing	NLP 202 && NLP 271A
 NLP 280	Seminar in Natural Language Processing		
 OAKS 1	Academic Literacy and Ethos: Communicating Diversity for a Just Society		
 OAKS 1A	Introduction to University Life and Learning		
-OAKS 3L	Precalculus Academy Lab		
+OAKS 3L	Precalculus Academy Lab	MATH 2	
 OAKS 10	Academic Success		
 OAKS 11	Foundation of Leadership		
 OAKS 20	STEM Success		
@@ -4762,14 +4762,14 @@ OAKS 30	Thesis Writing and Editing
 OAKS 46	Multiracial Visibility Project		
 OAKS 47	Building an Inner Sanctuary		
 OAKS 48	"Slugs Speak: Our Stories, Our Selves"		
-OAKS 60	Oakes Literary Journal: Further Reflections on a Diverse Society		
-OAKS 67	The Politics of Food: Labor and Social Justice		
+OAKS 60	Oakes Literary Journal: Further Reflections on a Diverse Society	OAKS 80A || OAKS 80B	
+OAKS 67	The Politics of Food: Labor and Social Justice	OAKS 1	
 OAKS 70	Diverse Voices in Contemporary American Women's Poetry		
 OAKS 72	Building the Strength to Love and Dream: Oakes Oral History Project		
 OAKS 73B	Oakes College Mentoring: Service Learning Practicum		
 OAKS 74	Oakes Core Assistant Seminar		
 OAKS 75	Oakes Student Development and Leadership Theory		
-OAKS 76	Social Geography and Justice in Santa Cruz		
+OAKS 76	Social Geography and Justice in Santa Cruz	OAKS 1	
 OAKS 93	Field Study		
 OAKS 94F	Group Tutorial		
 OAKS 95	Directed Reading		
@@ -4881,40 +4881,40 @@ PHIL 80E	Latin American Philosophy
 PHIL 80M	Science and Society		
 PHIL 80S	The Nature of Science		
 PHIL 99	Tutorial		
-PHIL 100A	Ancient Greek Philosophy		
-PHIL 100B	The Rationalists		
-PHIL 100C	The Empiricists		
-PHIL 106	Kant		
-PHIL 107	Nineteenth-Century Philosophy		
-PHIL 108	Phenomenology		
-PHIL 110	Existentialism		
-PHIL 111	Continental Philosophy		
-PHIL 112	American Philosophy		
-PHIL 113	The History of Analytic Philosophy		
-PHIL 114	Probability and Confirmation		
-PHIL 116	"Logic, Sets, and Functions"		
-PHIL 117	Non-Classical Logic		
-PHIL 118	Stoic Ethics		
-PHIL 119	Intermediate Logic		
-PHIL 121	Epistemology		
-PHIL 122	Metaphysics		
-PHIL 123	Philosophy of Language		
-PHIL 124	Other Minds		
-PHIL 125	Philosophy of Science		
-PHIL 126	Philosophy of Social Sciences		
-PHIL 127	Philosophy of Biology		
-PHIL 133	Philosophy of Mind		
-PHIL 135	Philosophy of Psychology		
-PHIL 140	History of Ethics		
-PHIL 142	Advanced Ethics		
+PHIL 100A	Ancient Greek Philosophy	(PHIL 8 || PHIL 9) && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S)	
+PHIL 100B	The Rationalists	(PHIL 8 || PHIL 9) && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S)	
+PHIL 100C	The Empiricists	(PHIL 8 || PHIL 9) && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S)	
+PHIL 106	Kant	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 107	Nineteenth-Century Philosophy	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 108	Phenomenology	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 24) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 110	Existentialism	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 111	Continental Philosophy	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 112	American Philosophy	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 113	The History of Analytic Philosophy	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 114	Probability and Confirmation	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 116	"Logic, Sets, and Functions"	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 117	Non-Classical Logic	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 118	Stoic Ethics	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 119	Intermediate Logic	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 121	Epistemology	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 122	Metaphysics	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 123	Philosophy of Language	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 124	Other Minds	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 125	Philosophy of Science	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 126	Philosophy of Social Sciences	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 127	Philosophy of Biology	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 24) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 133	Philosophy of Mind	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 135	Philosophy of Psychology	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 140	History of Ethics	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 142	Advanced Ethics	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
 PHIL 143	Applied Ethics: Ethics Bowl		
-PHIL 144	Topics in Social and Political Philosophy		
-PHIL 145	Political Philosophy after 1968		
-PHIL 147	Topics in Feminist Philosophy		
-PHIL 148	The Holocaust and Philosophy		
-PHIL 152	Aesthetics		
-PHIL 153	Philosophy of Race		
-PHIL 190	Senior Seminar		
+PHIL 144	Topics in Social and Political Philosophy	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 145	Political Philosophy after 1968	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 147	Topics in Feminist Philosophy	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 148	The Holocaust and Philosophy	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 152	Aesthetics	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 153	Philosophy of Race	PHIL 9 && (PHIL 11 || PHIL 22 || PHIL 23 || PHIL 24 || PHIL 80E || BME 80G || PHIL 80M || PHIL 80S) && (PHIL 100A || PHIL 100B || PHIL 100C)	
+PHIL 190	Senior Seminar	PHIL 9 && (PHIL 100A 2?? PHIL 100B 2?? PHIL 100C)	
 PHIL 195A	Senior Essay		
 PHIL 195B	Senior Essay		
 PHIL 199	Tutorial		
@@ -4960,17 +4960,17 @@ PHYE 5C	Aquatics: Swimming Level II
 PHYE 5E	Aquatics: Lifeguard Training (LT)		
 PHYE 5G	Aquatics: Swimming/Conditioning		
 PHYE 5R	Aquatics: Basic Scuba Diving		
-PHYE 5S	Aquatics: Advanced Scuba Diving		
+PHYE 5S	Aquatics: Advanced Scuba Diving	PHYE 5R	
 PHYE 5T	Scuba Rescue Diving		
 PHYE 9B	Boating: Beginning Dinghy Sailing		
-PHYE 9C	Boating: Intermediate Dinghy Sailing		
-PHYE 9D	Boating: Advanced Dinghy Sailing		
+PHYE 9C	Boating: Intermediate Dinghy Sailing	PHYE 9B	
+PHYE 9D	Boating: Advanced Dinghy Sailing	PHYE 9C	
 PHYE 9H	Boating: Basic Rowing		
-PHYE 9J	Boating: Intermediate Rowing		
+PHYE 9J	Boating: Intermediate Rowing	PHYE 9H	
 PHYE 9K	Boating: Ocean Kayaking		
-PHYE 9S	Boating: Beginning Keelboat Sailing		
-PHYE 9T	Boating: Intermediate Keelboat Sailing		
-PHYE 9X	Boating: Advanced Keelboat Sailing		
+PHYE 9S	Boating: Beginning Keelboat Sailing	PHYE 9C	
+PHYE 9T	Boating: Intermediate Keelboat Sailing	PHYE 9S	
+PHYE 9X	Boating: Advanced Keelboat Sailing	PHYE 9T	
 PHYE 15B	Court Sports: Basketball		
 PHYE 15N	Court Sports: Tennis		
 PHYE 15S	Court Sports: Sand Volleyball		
@@ -4985,8 +4985,8 @@ PHYE 30L	Fitness Activities: Yoga Exercises
 PHYE 43A	Martial Arts: Aikido I		
 PHYE 43B	Martial Arts: Aikido II		
 PHYE 209B	Boating: Graduate Beginning Dinghy Sailing		
-PHYE 209C	Boating: Graduate Intermediate Dinghy Sailing		
-PHYE 209S	Boating: Grad Student Beginning Keelboat Sailing		
+PHYE 209C	Boating: Graduate Intermediate Dinghy Sailing	PHYE 9B || PHYE 209B	
+PHYE 209S	Boating: Grad Student Beginning Keelboat Sailing	PHYE 9C || PHYE 209C	
 PHYS 1A	Physics for Everyone		
 PHYS 1B	Physics for Everyone		
 PHYS 2	The Physicist's Toolbox		
@@ -5114,7 +5114,7 @@ POLI 107	Politics of Aesthetics
 POLI 108	"Revolt, Rebellion, Revolution"		
 POLI 110	Law and Social Issues		
 POLI 111A	Constitutional Law		
-POLI 115	Foundations of Political Economy		
+POLI 115	Foundations of Political Economy	POLI 105A || POLI 105B || POLI 105C || POLI 105D || POLI 120C	
 POLI 118	Critical Political Thought and Critical Theory		
 POLI 120A	"Congress, President, and the Court in American Politics"		
 POLI 120B	Society and Democracy in American Political Development		
@@ -5164,22 +5164,22 @@ POLI 187	Decolonial Global Health: A View from the Middle East and Africa
 POLI 189	"Pandemics, Politics, and Global and Community Health"		
 POLI 190A	The Manufacture of Consent		
 POLI 190C	Postcolonial Visions of Liberation		
-POLI 190D	Early Anarchist and Socialist Thought		
+POLI 190D	Early Anarchist and Socialist Thought	POLI 103 2?? POLI 105A 2?? POLI 105B 2?? POLI 105C 2?? POLI 105D 2?? POLI 109 2?? POLI 115	
 POLI 190E	Transitions		
 POLI 190F	Topics in Urban Governance		
 POLI 190H	The Substance of Democracy		
 POLI 190L	Poverty Politics		
-POLI 190M	Politics in American States		
+POLI 190M	Politics in American States	POLI 20 || POLI 21 || POLI 120A || POLI 120B || POLI 120C || POLI 122 || POLI 124 || POLI 127 || POLI 128 || POLI 132	
 POLI 190N	Problems and Solutions in U.S. Politics		
 POLI 190O	Constitutional Meanings and Movements		
 POLI 190P	Race: History of a Concept		
-POLI 190R	Comparative Law and Society		
+POLI 190R	Comparative Law and Society	POLI 160B	
 POLI 190S	Policies and Practices of Health Systems Strengthening		
-POLI 190T	Governance and Conflict in East Asia		
+POLI 190T	Governance and Conflict in East Asia	POLI 141 || POLI 161 || POLI 109	
 POLI 190V	States in the Global South		
 POLI 190W	Topics in Latin American Politics		
 POLI 190X	American Empire		
-POLI 190Y	African American Political Thought		
+POLI 190Y	African American Political Thought	POLI 3 || POLI 4 || POLI 105A || POLI 103 || POLI 105B || POLI 105C || POLI 105D || POLI 107 || POLI 108 || POLI 115 || POLI 118 || POLI 121 || POLI 182 || POLI 184	
 POLI 190Z	International Security		
 POLI 193	Field Study in Politics		
 POLI 194	Group Tutorial		
@@ -5268,7 +5268,7 @@ PRTR 99F	Tutorial
 PRTR 131C	Curatorial Practice		
 PRTR 131P	"What is Photography? History, Politics, and Critique of Photographic Representation"		
 PRTR 132	Writing the Future: Science Fiction		
-PRTR 141L	Long Form Improvisation		
+PRTR 141L	Long Form Improvisation	PRTR 41I || PRTR 80I	
 PRTR 141W	Improvisation Workshop		
 PRTR 147O	Opera Workshop/Music Practicum		
 PRTR 147P	Advanced Music Practicum		
@@ -5464,8 +5464,8 @@ PSYC 299A	Thesis Research
 PSYC 299B	Thesis Research		
 PSYC 299C	Thesis Research		
 PUNJ 1	First-Year Punjabi 1		
-PUNJ 2	First-Year Punjabi 2		
-PUNJ 3	First-Year Punjabi 3		
+PUNJ 2	First-Year Punjabi 2	PUNJ 1	
+PUNJ 3	First-Year Punjabi 3	PUNJ 2	
 SCIC 100	Science Communication for Scientists		
 SCIC 104B	Field Sketching in Color		
 SCIC 106A	Introduction to Natural Science Illustration		
@@ -5664,45 +5664,45 @@ SOCY 295	The Pedagogy of Sociology
 SOCY 297	Independent Study		
 SOCY 299	Thesis Research		
 SPAN 1	First-Year Spanish		
-SPAN 2	First-Year Spanish		
-SPAN 3	First-Year Spanish		
-SPAN 4	Second-Year Spanish		
-SPAN 5	Second-Year Spanish		
-SPAN 5M	Medical Spanish		
-SPAN 6	Second-Year Spanish		
+SPAN 2	First-Year Spanish	SPAN 1	
+SPAN 3	First-Year Spanish	SPAN 2	
+SPAN 4	Second-Year Spanish	SPAN 3	
+SPAN 5	Second-Year Spanish	SPAN 4	
+SPAN 5M	Medical Spanish	SPAN 4 || SPHS 4 || SPHS 5 || SPHS 6	
+SPAN 6	Second-Year Spanish	SPAN 5 || SPAN 5M	
 SPAN 94	Group Tutorial		
 SPAN 99	Tutorial		
 SPAN 99F	Tutorial		
-SPAN 114	Advanced Conversation and Composition		
-SPAN 130	Spanish for the Legal Profession		
-SPAN 140	Sounds of Spanish		
-SPAN 141	Advanced Spanish Grammar		
-SPAN 142	El mundo de las palabras. Spanish Morphology and Lexicon		
-SPAN 150	Topics in Hispanic Linguistics: Introduction to Hispanic Linguistics		
-SPAN 151	Topics in Hispanic Linguistics: Varieties of Spanish		
-SPAN 152	Topics in Hispanic Linguistics: Spanish in the U.S.		
-SPAN 153	Spanish Language Teaching		
-SPAN 154	Topics in Hispanic Linguistics: Spanish Pragmatics		
-SPAN 155	Topics in Hispanic Linguistics: Language Contact in the Spanish Speaking World		
-SPAN 156A	The Language of Latin America Cinema		
-SPAN 156E	Spanish Culture		
-SPAN 156F	El Humor en Espanol		
-SPAN 156J	Contemporary Central America		
-SPAN 156K	Spanish Discourse Analysis		
-SPAN 156L	Society and Sustainability in Latin America		
-SPAN 156M	Mexico and the Southwest		
-SPAN 157	Spanish Sociolinguistics		
-SPAN 158	Spanish in the U.S.-Mexico Borderlands		
+SPAN 114	Advanced Conversation and Composition	SPAN 6 || SPHS 6	
+SPAN 130	Spanish for the Legal Profession	SPAN 6 || SPHS 6	
+SPAN 140	Sounds of Spanish	LING 50 && (SPAN 6 || SPHS 6)	
+SPAN 141	Advanced Spanish Grammar	SPAN 6 || SPHS 6	
+SPAN 142	El mundo de las palabras. Spanish Morphology and Lexicon	SPAN 6 || SPHS 6	
+SPAN 150	Topics in Hispanic Linguistics: Introduction to Hispanic Linguistics	LING 50 && (SPAN 6 || SPHS 6)	
+SPAN 151	Topics in Hispanic Linguistics: Varieties of Spanish	SPAN 150	
+SPAN 152	Topics in Hispanic Linguistics: Spanish in the U.S.	SPAN 150	
+SPAN 153	Spanish Language Teaching	SPAN 150	
+SPAN 154	Topics in Hispanic Linguistics: Spanish Pragmatics	SPAN 6 || SPHS 6	
+SPAN 155	Topics in Hispanic Linguistics: Language Contact in the Spanish Speaking World	SPAN 150	
+SPAN 156A	The Language of Latin America Cinema	SPAN 6 || SPHS 6	
+SPAN 156E	Spanish Culture	SPAN 6 || SPHS 6	
+SPAN 156F	El Humor en Espanol	SPAN 6 || SPHS 6	
+SPAN 156J	Contemporary Central America	SPAN 6 || SPHS 6	
+SPAN 156K	Spanish Discourse Analysis	LING 50 && (SPAN 6 || SPHS 6)	
+SPAN 156L	Society and Sustainability in Latin America	SPAN 6 || SPHS 6	
+SPAN 156M	Mexico and the Southwest	SPAN 6 || SPHS 6	
+SPAN 157	Spanish Sociolinguistics	SPAN 150	
+SPAN 158	Spanish in the U.S.-Mexico Borderlands	SPAN 6	
 SPAN 194	Group Tutorial		
 SPAN 199	Tutorial		
 SPAN 199F	Tutorial		
 SPHS 4	Spanish for Heritage Speakers		
-SPHS 5	Spanish for Heritage Speakers		
-SPHS 6	Spanish for Heritage Speakers		
+SPHS 5	Spanish for Heritage Speakers	SPHS 4	
+SPHS 6	Spanish for Heritage Speakers	SPHS 5	
 SPHS 94	Group Tutorial		
 SPHS 99	Tutorial		
 SPHS 99F	Tutorial		
-SPHS 115	"El ensayo lectura, análisis y redacción"		
+SPHS 115	"El ensayo lectura, análisis y redacción"	SPAN 6 || SPHS 6	
 SPHS 194	Group Tutorial		
 SPHS 199	Tutorial		
 SPHS 199F	Tutorial		
@@ -5782,7 +5782,7 @@ STEV 80G	Self and Society Through Film
 STEV 80T	Self and Society for Transfer Students		
 STEV 96	Theory and Practice of Peer-Guided Learning for Tutors and Learning Assistants		
 STEV 99	Tutorial		
-STEV 120	Self and Society: Teaching Practicum		
+STEV 120	Self and Society: Teaching Practicum	(STEV 1 || STEV 80) && (STEV 2 || STEV 81)	
 STEV 136	Imagination		
 STEV 192	Directed Student Teaching		
 STEV 193	Field Study		
@@ -5801,7 +5801,7 @@ THEA 15	Special Topics in Textiles
 THEA 17	Costume Construction		
 THEA 18	Drafting for Theatrical Production		
 THEA 18C	Drafting-Computer Aided		
-THEA 19	Design Studio: Lighting Studio A		
+THEA 19	Design Studio: Lighting Studio A	THEA 10	
 THEA 20	Introductory Studies in Acting		
 THEA 21	Acting Studio I: Psychological Realism		
 THEA 22	Indonesian Dance and Drama		
@@ -5815,14 +5815,14 @@ THEA 31C	Dance Studio I: Contemporary Dance Theory and Technique
 THEA 31E	The Dance Experience		
 THEA 31L	Dance Studio I: Introduction to Latin American Social Dances		
 THEA 31M	Introduction to Aikido		
-THEA 33C	Dance Studio I		
+THEA 33C	Dance Studio I	THEA 30	
 THEA 36	Introduction to Dance Making		
 THEA 37	African Dance		
 THEA 38	Dance on Film		
 THEA 40	Introduction to Directing		
 THEA 41	Fundamentals of Directing		
 THEA 50	Fundamentals of Theater Production		
-THEA 52	Basic Stagecraft		
+THEA 52	Basic Stagecraft	THEA 10	
 THEA 55A	Workshop in Performance: Barnstorm		
 THEA 55B	Workshop in Performance: Barnstorm Lab		
 THEA 56D	Rainbow Theater Cultural Studies		
@@ -5855,19 +5855,19 @@ THEA 100A	Asian Theater/Dance and Global Impacts
 THEA 100B	Black Theater USA		
 THEA 100C	"Courts, Courtesans, Shamans, and Clowns: Asian Drama"		
 THEA 100W	Black/African Diasporic World Theater		
-THEA 103	Design Concept Development		
+THEA 103	Design Concept Development	THEA 10 && (ART 10D 2?? ART 103 2?? ART 10F)	
 THEA 104	Multimedia Authoring		
 THEA 106	Digital Illustration		
 THEA 108	Theater and Interaction Design		
 THEA 113	The History of Design for Theater		
-THEA 114	Sound Design and Engineering for the Theater		
-THEA 115A	Design Studio: Scenic Design		
-THEA 115B	Design Studio: Scenic Design B		
+THEA 114	Sound Design and Engineering for the Theater	THE A10	
+THEA 115A	Design Studio: Scenic Design	THEA 10	
+THEA 115B	Design Studio: Scenic Design B	THEA 115A	
 THEA 116A	History of Clothing and Costume		
 THEA 117	Design Studio: Costume		
-THEA 117A	Advanced Costume Construction		
-THEA 118	Design Studio: Scene Painting		
-THEA 119	Design Studio: Lighting Studio B		
+THEA 117A	Advanced Costume Construction	THEA 17	
+THEA 118	Design Studio: Scene Painting	THEA 10	
+THEA 119	Design Studio: Lighting Studio B	THEA 19	
 THEA 120	Voice and Movement for Performers		
 THEA 121	Acting Studio II: Shakespeare		
 THEA 122	"Indian Performance: Rama, Siva, Krishna"		
@@ -5876,31 +5876,31 @@ THEA 124	Movement for Performers
 THEA 126	Acting Studio III		
 THEA 126M	The Meisner Technique: A Practical Exploration		
 THEA 128	Choreographic Workshop		
-THEA 131A	Dance Studio II: Asian or Asian Diasporic Practice		
-THEA 131B	Dance Studio II: Ballet		
-THEA 131C	Dance Studio II: Advanced Contemporary Forms and Practices		
-THEA 131L	Advanced Latin American Social Dances		
+THEA 131A	Dance Studio II: Asian or Asian Diasporic Practice	THEA 31A	
+THEA 131B	Dance Studio II: Ballet	THEA 31B	
+THEA 131C	Dance Studio II: Advanced Contemporary Forms and Practices	THEA 31C	
+THEA 131L	Advanced Latin American Social Dances	THEA 31L	
 THEA 131X	Advanced Contemporary Forms and Practices Within a Global Dance Context		
-THEA 135	Choreography I		
+THEA 135	Choreography I	THEA 36	
 THEA 136	Choreography II		
 THEA 137	Studies in Performance (Dance)		
-THEA 137A	Studies in Performance (Dance): Asian		
+THEA 137A	Studies in Performance (Dance): Asian	THEA 31A	
 THEA 139	Random: With a Purpose		
 THEA 141	Play Direction Studio I		
-THEA 142	Play Direction Studio II		
+THEA 142	Play Direction Studio II	THEA 40 || THEA 141	
 THEA 145R	From Hamlet to Hamilton: Performing Rhythm and Rhyme in the Twenty-first Century		
 THEA 150	Pre-production		
 THEA 151	Studies in Performance (Drama)		
 THEA 151A	Studies in Performance: African American Theater Arts Troupe		
 THEA 151I	Studies in Performance: Indonesian Dance and Drama		
-THEA 152	Advanced Stagecraft		
+THEA 152	Advanced Stagecraft	THEA 52	
 THEA 154	Shakespeare Santa Cruz: Writing in Response to the Bard		
 THEA 155	Shakespeare to Go		
 THEA 157	Playwriting		
 THEA 158	New Play Festival		
-THEA 159	Advanced Playwriting		
+THEA 159	Advanced Playwriting	THEA 157	
 THEA 160	Dramatic Theories		
-THEA 161	Advanced Dramaturgy		
+THEA 161	Advanced Dramaturgy	THEA 160	
 THEA 161A	Irish Theater		
 THEA 161B	Black Women and Diasporic Theatrical Expression		
 THEA 161C	Theater and Drama of the Renaissance		
@@ -5920,7 +5920,7 @@ THEA 163A	Shakespeare
 THEA 163E	Chekhov and His Impact		
 THEA 163G	Special Studies in Playwrights: Artaud		
 THEA 163H	Henrik Ibsen and His Impact: Ghosts of the Future		
-THEA 163K	Special Studies in Playwrights: Euripides		
+THEA 163K	Special Studies in Playwrights: Euripides	THEA 61A	
 THEA 164	Issues in Dance History and Theory		
 THEA 165	Dance Modernism		
 THEA 166	Ballet: A History		
@@ -5948,16 +5948,16 @@ THEA 297	Independent Study
 THEA 297F	Independent Study/Graduate		
 THEA 299	Capstone Thesis		
 TIM 50	Business Information Systems		
-TIM 58	Systems Analysis and Design		
+TIM 58	Systems Analysis and Design	TIM 50	
 TIM 80C	Starting a New Technology Company		
-TIM 147	Introduction to Data Mining for Business		
-TIM 150	Optimization for Management		
+TIM 147	Introduction to Data Mining for Business	CSE 20 && CSE 30 && CSE 16 && (MATH 22 || MATH 23A || AM 30) && (STAT 5 || (STAT 7 && STAT 7L)) && (AM 10 || MATH 21) && (AM 20 || MATH 24)	
+TIM 150	Optimization for Management	(AM 10 || MATH 21) && (AM 30 || MATH 22 || MATH 23A)	
 TIM 170	Management of Technology Seminar		
-TIM 172A	Introduction to Management of Technology I		
-TIM 172B	Introduction to Management of Technology II		
+TIM 172A	Introduction to Management of Technology I	MATH 19B || MATH 20B || MATH 11B || AM 11B || ECON 11B	
+TIM 172B	Introduction to Management of Technology II	TIM 172A	
 TIM 172P	Management of Technology Project I		
-TIM 172Q	Management of Technology Project II		
-TIM 173	Financial Engineering and Management in High Technology Firms		
+TIM 172Q	Management of Technology Project II	TIM 172A && TIM 172P	
+TIM 173	Financial Engineering and Management in High Technology Firms	ECON 113 || STAT 131 || CSE 107	
 TIM 175	Business Strategy and Information Systems		
 TIM 193	Field Study		
 TIM 193F	Field Study		
@@ -6034,6 +6034,6 @@ WRIT 199F	Tutorial
 WRIT 202	Writing and Learning Seminar		
 WRIT 203	Teaching Writing		
 YIDD 1	First-Year Yiddish		
-YIDD 2	First-Year Yiddish		
-YIDD 3	First-Year Yiddish		
+YIDD 2	First-Year Yiddish	YIDD 1	
+YIDD 3	First-Year Yiddish	YIDD 2	
 YIDD 99F	Tutorial		
